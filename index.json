@@ -18,7 +18,6 @@
             "image": "https://github.com/tomwragg13/enhanced_full_power/releases/download/v1.0/preview.png",
             "version": "1",
             "description": "Full Power power-ups work exactly as normal, and on top of that the player who picks one up is given a random score streak, straight into their streak slot. Weapon streaks (Death Machine, War Machine...) come with full ammo. Item streaks (RC-XD, DAWG, Toma Strike...) work too. Configurable between all weapon streaks, just death machine, all weapons and item streaks. If you're already holding a streak, the new one replaces it. You can choose to have your old one dropped at your feet instead of lost.",
-            "image": "https://github.com/tomwragg13/enhanced_full_power/releases/download/v1.0/preview.png",
             "files": [
                 {
                     "name": "mod.json",
