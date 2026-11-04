@@ -22,7 +22,7 @@
             "files": [
                 {
                     "name": "mod.json",
-                    "size": 78,
+                    "size": 98,
                     "hash": "",
                     "urls": [
                         "https://github.com/tomwragg13/enhanced_full_power/releases/download/v1.0/mod.json"
@@ -30,7 +30,7 @@
                 },
                 {
                     "name": "scripts/zm_enhanced_full_power.gsc",
-                    "size": 14000,
+                    "size": 13615,
                     "hash": "",
                     "urls": [
                         "https://github.com/tomwragg13/enhanced_full_power/releases/download/v1.0/zm_enhanced_full_power.json"
