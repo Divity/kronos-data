@@ -18,22 +18,22 @@
             "image": "https://github.com/Divity/kronos-data/releases/download/r1/p1.png",
             "version": "1",
             "description": "Full Power power-ups work exactly as normal, and on top of that the player who picks one up is given a random score streak, straight into their streak slot. Weapon streaks (Death Machine, War Machine...) come with full ammo. Item streaks (RC-XD, DAWG, Toma Strike...) work too. Configurable between all weapon streaks, just death machine, all weapons and item streaks. If you're already holding a streak, the new one replaces it. You can choose to have your old one dropped at your feet instead of lost."
-            "image": "https://github.com/Ares32e/bo7-boss-auto-start/releases/download/v3.0/preview.png",
+            "image": "https://github.com/tomwragg13/enhanced_full_power/releases/download/v1.0/preview.png",
             "files": [
                 {
                     "name": "mod.json",
                     "size": 78,
-                    "hash": "43be96dae321c578355d2128d1a79597b7c3705bbf4f3420d800fa24e2847d87",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Ares32e/bo7-boss-auto-start/releases/download/v3.0/mod.json"
+                        "https://github.com/tomwragg13/enhanced_full_power/releases/download/v1.0/mod.json"
                     ]
                 },
                 {
-                    "name": "scripts/zm_boss_start.gsc",
+                    "name": "scripts/zm_enhanced_full_power.gsc",
                     "size": 14000,
-                    "hash": "c796dcdbb413a9220a58e5a905164e468d98b3dee7022ad4e8195e7a1494cd68",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Ares32e/bo7-boss-auto-start/releases/download/v3.0/zm_boss_start.gsc"
+                        "https://github.com/tomwragg13/enhanced_full_power/releases/download/v1.0/zm_enhanced_full_power.json"
                     ]
                 }
             ]
