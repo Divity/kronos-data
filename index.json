@@ -10,6 +10,15 @@
             "version": "1",
             "description": "Mods for Kronos show up here. Install them in one click and turn them on or off from the Library."
         },
+         {
+            "id": "enhanced_full_power",
+            "type": "script",
+            "name": "Enhanced Full Power / Death Machine",
+            "author": "tw13",
+            "image": "https://github.com/Divity/kronos-data/releases/download/r1/p1.png",
+            "version": "1",
+            "description": "Full Power power-ups work exactly as normal, and on top of that the player who picks one up is given a random score streak, straight into their streak slot. Weapon streaks (Death Machine, War Machine...) come with full ammo. Item streaks (RC-XD, DAWG, Toma Strike...) work too. Configurable between all weapon streaks, just death machine, all weapons and item streaks. If you're already holding a streak, the new one replaces it. You can choose to have your old one dropped at your feet instead of lost."
+        },
         {
             "id": "boss_auto_start",
             "type": "script",
