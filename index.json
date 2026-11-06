@@ -984,6 +984,1081 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "phantom_menu",
+            "type": "script",
+            "name": "Phantom Menu",
+            "author": "Ares",
+            "version": "1.0",
+            "description": "Zombies mod menu: spawn enemies and guns, Pack-a-Punch, rounds, power-ups, Forge, Boss Creator, Map Rotation, presets and more. Solo / private matches only.",
+            "image": "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 276,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_sandbox.gsc",
+                    "size": 18275,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_sandbox.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_zmap.gsc",
+                    "size": 6808,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_zmap.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_zspawn.gsc",
+                    "size": 7187,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_zspawn.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_zz_devmenu.gsc",
+                    "size": 214857,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_zz_devmenu.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_zz_devmenu_anims.gsc",
+                    "size": 96982,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_zz_devmenu_anims.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_zz_devmenu_boss.gsc",
+                    "size": 28456,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_zz_devmenu_boss.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_zz_devmenu_extra.gsc",
+                    "size": 9604,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_zz_devmenu_extra.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_zz_devmenu_forge.gsc",
+                    "size": 27267,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_zz_devmenu_forge.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_zz_devmenu_fun.gsc",
+                    "size": 75310,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_zz_devmenu_fun.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_zz_devmenu_hud.gsc",
+                    "size": 41431,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_zz_devmenu_hud.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_zz_devmenu_look.gsc",
+                    "size": 26662,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_zz_devmenu_look.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_zz_devmenu_op.gsc",
+                    "size": 42727,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_zz_devmenu_op.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_zz_devmenu_pages.gsc",
+                    "size": 31762,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_zz_devmenu_pages.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_zz_devmenu_veh.gsc",
+                    "size": 5443,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_zz_devmenu_veh.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_zz_devmenu_world.gsc",
+                    "size": 60570,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zm_zz_devmenu_world.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/phantom_menu_post.lua",
+                    "size": 89777,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/phantom_menu_post.lua"
+                    ]
+                },
+                {
+                    "name": "images/bg_bo1.png",
+                    "size": 3207693,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/bg_bo1.png"
+                    ]
+                },
+                {
+                    "name": "images/bg_bo2.png",
+                    "size": 2417666,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/bg_bo2.png"
+                    ]
+                },
+                {
+                    "name": "images/bg_bo3.png",
+                    "size": 2000720,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/bg_bo3.png"
+                    ]
+                },
+                {
+                    "name": "images/bg_bo4.png",
+                    "size": 2613301,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/bg_bo4.png"
+                    ]
+                },
+                {
+                    "name": "images/bg_bo6.png",
+                    "size": 1220968,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/bg_bo6.png"
+                    ]
+                },
+                {
+                    "name": "images/bg_cw.png",
+                    "size": 3088846,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/bg_cw.png"
+                    ]
+                },
+                {
+                    "name": "images/bg_waw.png",
+                    "size": 2234285,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/bg_waw.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ar_albatross.png",
+                    "size": 56838,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ar_albatross.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ar_condor.png",
+                    "size": 78458,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ar_condor.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ar_eagle.png",
+                    "size": 78850,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ar_eagle.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ar_egret.png",
+                    "size": 67311,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ar_egret.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ar_emu.png",
+                    "size": 54799,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ar_emu.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ar_falcon.png",
+                    "size": 91425,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ar_falcon.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ar_hawk.png",
+                    "size": 72428,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ar_hawk.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ar_heron.png",
+                    "size": 92010,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ar_heron.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ar_kite.png",
+                    "size": 66060,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ar_kite.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ar_kiwi.png",
+                    "size": 95741,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ar_kiwi.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ar_macaw.png",
+                    "size": 84254,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ar_macaw.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ar_vulture.png",
+                    "size": 82372,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ar_vulture.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ar_wren.png",
+                    "size": 54305,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ar_wren.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_dm_kara.png",
+                    "size": 53634,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_dm_kara.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_dm_oman.png",
+                    "size": 47875,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_dm_oman.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_dm_samar.png",
+                    "size": 50253,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_dm_samar.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_dm_scotia.png",
+                    "size": 74806,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_dm_scotia.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_dm_solomon.png",
+                    "size": 87661,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_dm_solomon.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_la_fang.png",
+                    "size": 101118,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_la_fang.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_la_polis.png",
+                    "size": 88253,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_la_polis.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_lm_hades.png",
+                    "size": 58775,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_lm_hades.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_lm_hildr.png",
+                    "size": 70744,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_lm_hildr.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_lm_typhon.png",
+                    "size": 68400,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_lm_typhon.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_lm_zeus.png",
+                    "size": 86355,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_lm_zeus.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_me_ballisticknife.png",
+                    "size": 60124,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_me_ballisticknife.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_me_castor.png",
+                    "size": 59994,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_me_castor.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_me_knife.png",
+                    "size": 35782,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_me_knife.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_me_maru.png",
+                    "size": 16034,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_me_maru.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_me_nashira.png",
+                    "size": 31666,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_me_nashira.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_me_saiph.png",
+                    "size": 137681,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_me_saiph.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_me_shockbaton.png",
+                    "size": 89636,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_me_shockbaton.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_me_wasat.png",
+                    "size": 87165,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_me_wasat.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_pi_alcor.png",
+                    "size": 85448,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_pi_alcor.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_pi_atlas.png",
+                    "size": 75990,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_pi_atlas.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_pi_orion.png",
+                    "size": 78037,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_pi_orion.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_pi_timir.png",
+                    "size": 72923,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_pi_timir.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sh_akita.png",
+                    "size": 79008,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sh_akita.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sh_corso.png",
+                    "size": 51348,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sh_corso.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sh_husky.png",
+                    "size": 77228,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sh_husky.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sh_shepherd.png",
+                    "size": 96537,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sh_shepherd.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sm_bear.png",
+                    "size": 57003,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sm_bear.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sm_bengal.png",
+                    "size": 77250,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sm_bengal.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sm_civet.png",
+                    "size": 82538,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sm_civet.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sm_cobra.png",
+                    "size": 79170,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sm_cobra.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sm_gecko.png",
+                    "size": 72776,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sm_gecko.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sm_hyena.png",
+                    "size": 70195,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sm_hyena.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sm_komodo.png",
+                    "size": 92753,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sm_komodo.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sm_marmot.png",
+                    "size": 56996,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sm_marmot.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sm_orca.png",
+                    "size": 69893,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sm_orca.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sm_otter.png",
+                    "size": 85233,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sm_otter.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sm_puma.png",
+                    "size": 109357,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sm_puma.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sm_serval.png",
+                    "size": 60357,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sm_serval.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sm_zebra.png",
+                    "size": 86808,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sm_zebra.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sn_aden.png",
+                    "size": 55519,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sn_aden.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sn_baltic.png",
+                    "size": 86995,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sn_baltic.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sn_caspian.png",
+                    "size": 67626,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sn_caspian.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sn_coral.png",
+                    "size": 53413,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sn_coral.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_sn_drake.png",
+                    "size": 57669,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_sn_drake.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ww_firefly.png",
+                    "size": 144394,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ww_firefly.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ww_hornet.png",
+                    "size": 99750,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ww_hornet.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ww_locust.png",
+                    "size": 82731,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ww_locust.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ww_mantis.png",
+                    "size": 53583,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ww_mantis.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ww_raygun.png",
+                    "size": 89648,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ww_raygun.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ww_raygunmark2.png",
+                    "size": 116885,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ww_raygunmark2.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ww_ruby.png",
+                    "size": 56312,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ww_ruby.png"
+                    ]
+                },
+                {
+                    "name": "images/gp_ww_scarab.png",
+                    "size": 122241,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/gp_ww_scarab.png"
+                    ]
+                },
+                {
+                    "name": "images/logo_bo1.png",
+                    "size": 62676,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/logo_bo1.png"
+                    ]
+                },
+                {
+                    "name": "images/logo_bo2.png",
+                    "size": 72438,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/logo_bo2.png"
+                    ]
+                },
+                {
+                    "name": "images/logo_bo3.png",
+                    "size": 52758,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/logo_bo3.png"
+                    ]
+                },
+                {
+                    "name": "images/logo_bo4.png",
+                    "size": 58727,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/logo_bo4.png"
+                    ]
+                },
+                {
+                    "name": "images/logo_bo6.png",
+                    "size": 62561,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/logo_bo6.png"
+                    ]
+                },
+                {
+                    "name": "images/logo_cw.png",
+                    "size": 72843,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/logo_cw.png"
+                    ]
+                },
+                {
+                    "name": "images/logo_waw.png",
+                    "size": 90348,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/logo_waw.png"
+                    ]
+                },
+                {
+                    "name": "images/phantom_bg.png",
+                    "size": 335877,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/phantom_bg.png"
+                    ]
+                },
+                {
+                    "name": "images/phantom_logo.png",
+                    "size": 349459,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/phantom_logo.png"
+                    ]
+                },
+                {
+                    "name": "images/phantom_pi_1.png",
+                    "size": 13594,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/phantom_pi_1.png"
+                    ]
+                },
+                {
+                    "name": "images/phantom_pi_10.png",
+                    "size": 13740,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/phantom_pi_10.png"
+                    ]
+                },
+                {
+                    "name": "images/phantom_pi_2.png",
+                    "size": 14533,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/phantom_pi_2.png"
+                    ]
+                },
+                {
+                    "name": "images/phantom_pi_3.png",
+                    "size": 14926,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/phantom_pi_3.png"
+                    ]
+                },
+                {
+                    "name": "images/phantom_pi_4.png",
+                    "size": 14888,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/phantom_pi_4.png"
+                    ]
+                },
+                {
+                    "name": "images/phantom_pi_5.png",
+                    "size": 14320,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/phantom_pi_5.png"
+                    ]
+                },
+                {
+                    "name": "images/phantom_pi_6.png",
+                    "size": 14532,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/phantom_pi_6.png"
+                    ]
+                },
+                {
+                    "name": "images/phantom_pi_7.png",
+                    "size": 13350,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/phantom_pi_7.png"
+                    ]
+                },
+                {
+                    "name": "images/phantom_pi_8.png",
+                    "size": 15113,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/phantom_pi_8.png"
+                    ]
+                },
+                {
+                    "name": "images/phantom_pi_9.png",
+                    "size": 14692,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/phantom_pi_9.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_callisto_boss_ob.png",
+                    "size": 144439,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_callisto_boss_ob.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_callisto_hvt_nm.png",
+                    "size": 144439,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_callisto_hvt_nm.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_callisto_hvt_zm.png",
+                    "size": 144439,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_callisto_hvt_zm.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_callisto_hvt_zm_melee.png",
+                    "size": 144439,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_callisto_hvt_zm_melee.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_callisto_hvt_zm_relic.png",
+                    "size": 144439,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_callisto_hvt_zm_relic.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_callisto_mp.png",
+                    "size": 144439,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_callisto_mp.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_callisto_ob.png",
+                    "size": 144439,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_callisto_ob.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_callisto_zm.png",
+                    "size": 144439,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_callisto_zm.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_galileo_boss_ob.png",
+                    "size": 54329,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_galileo_boss_ob.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_galileo_drone_ob.png",
+                    "size": 54329,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_galileo_drone_ob.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_galileo_drone_ob_nm.png",
+                    "size": 54329,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_galileo_drone_ob_nm.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_galileo_drone_zm.png",
+                    "size": 54329,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_galileo_drone_zm.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_galileo_hvt_ob_nm.png",
+                    "size": 54329,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_galileo_hvt_ob_nm.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_galileo_zm.png",
+                    "size": 54329,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_galileo_zm.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_hermes_zm.png",
+                    "size": 66004,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_hermes_zm.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_karkinos_hvt.png",
+                    "size": 120640,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_karkinos_hvt.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_karkinos_mp.png",
+                    "size": 120640,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_karkinos_mp.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_karkinos_zm.png",
+                    "size": 120640,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_karkinos_zm.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_neptune_boss_ob.png",
+                    "size": 71188,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_neptune_boss_ob.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_neptune_zm.png",
+                    "size": 71188,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_neptune_zm.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_shade_mp.png",
+                    "size": 56309,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_shade_mp.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_shade_zm.png",
+                    "size": 56309,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_shade_zm.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_shade_zm_locust_irradiated.png",
+                    "size": 56309,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_shade_zm_locust_irradiated.png"
+                    ]
+                },
+                {
+                    "name": "images/zp_sat_spawner_zombie_shade_zm_ruby_ee_bongo.png",
+                    "size": 56309,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/phantom-menu/releases/download/v1.0/zp_sat_spawner_zombie_shade_zm_ruby_ee_bongo.png"
+                    ]
+                }
+            ]
         }
     ]
 }
