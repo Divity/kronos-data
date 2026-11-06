@@ -206,88 +206,128 @@
             "type": "script",
             "name": "BO7 - World Builder",
             "author": "ZMRev",
-            "version": "4.0 stable",
+            "version": "1.69 / s1.21",
             "description": "Build your own version of any map. Press F8 to spawn props, machines and zombies, move or delete what's already there, change the sky, and save your layout to load again later.",
-            "image": "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/forge_tool_preview.png",
+            "image": "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/forge_tool_preview.png",
             "files": [
                 {
                     "name": "mod.json",
-                    "size": 90,
-                    "hash": "b5f513d93967eb8b6147abbd0832392a221ac2dab8f3d3517e6ea7f027bcb2f8",
+                    "size": 92,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/mod.json"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/mod.json"
                     ]
                 },
                 {
                     "name": "scripts/modtools.gsc",
-                    "size": 229930,
-                    "hash": "d3002858973502aa150e81688ec9a068fa3328f9c1ba2a4bae80131e55a242a1",
+                    "size": 276536,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/modtools.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_mp.gsc",
-                    "size": 71068,
-                    "hash": "130c9508dfceee8738f1bd9eacc52e3f20e50e93a205d952b2e43f7149f42277",
+                    "size": 87832,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/modtools_mp.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_mp.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_ob.gsc",
                     "size": 28098,
-                    "hash": "c14588dea6dec2cf9e7a8eb9913e21147a805f55fde79705b1463bc9dd6301b9",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/modtools_ob.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_ob.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm.gsc",
-                    "size": 140173,
-                    "hash": "880967c9049329528d4ec98fcfdb43d8d6808c7bd008d4bac9fb8815b0cdbce5",
+                    "size": 270193,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/modtools_zm.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_zm_anvil.gsc",
+                    "size": 9153,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_anvil.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_bgb.gsc",
                     "size": 192,
-                    "hash": "3ec7d6b35570cfaac9c4bbbc389dded73fcbc29a35c0f348449fb9e4deb7a2f7",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/modtools_zm_bgb.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_bgb.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_zm_exfil.gsc",
+                    "size": 6971,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_exfil.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_hornet.gsc",
                     "size": 764,
-                    "hash": "9d9a850c417605af8d824b789d66bd33fde4b12e11f9d0a5f7ab2e84c511bba8",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/modtools_zm_hornet.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_hornet.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_zm_rampage.gsc",
+                    "size": 2582,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_rampage.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_zm_reward.gsc",
+                    "size": 32451,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_reward.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_zm_tedd.gsc",
+                    "size": 403,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_tedd.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_tt.gsc",
-                    "size": 280,
-                    "hash": "934b92305c606a2b87f17577114dc234b6d254ec53c02c51da9cf351100cf4ba",
+                    "size": 576,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/modtools_zm_tt.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_tt.gsc"
                     ]
                 },
                 {
                     "name": "lua/zm_builder_models_post.lua",
                     "size": 1524284,
-                    "hash": "b7503619b95cca591abe40e92d13004f2f6c467f96c0c52c17c6aed2d04f3256",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/zm_builder_models_post.lua"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/zm_builder_models_post.lua"
                     ]
                 },
                 {
                     "name": "lua/zm_builder_post.lua",
-                    "size": 429512,
-                    "hash": "6a624b5c3c56f44afaa4c106bbf3b086d6b8247f59ac328f520ecd3b61ddfa02",
+                    "size": 483598,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/zm_builder_post.lua"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/zm_builder_post.lua"
                     ]
                 }
             ]
