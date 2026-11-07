@@ -43,7 +43,7 @@
             "name": "Blood Burner",
             "author": "Shlogbobble",
             "version": "2",
-            "description": "Endgame's Blood Burner bike as a Zombies field upgrade. Pick it in your loadout and use it to summon your own bike: run zombies down to charge its Aether Pulse, which shocks nearby zombies and drops a live LT53 Kazimir. Left alone, the bike lures zombies in and explodes. Works on every map. On Ashes of the Damned it also smashes the wooden barriers like Tessie, rams Veytherion for Tessie's damage and carries his aetheric energy during his spin phase. Ashes also has its own Blood Burner waiting at Exit 115, dormant until you find its key and feed it 50 souls; once it's awake, one waits in the boss arena too. (The two zm_blood_burner_ashes files only load on Ashes, by design.)",
+            "description": "Endgame's Blood Burner bike as a Zombies field upgrade: summon your own bike and run zombies down to charge its Aether Pulse, which shocks nearby zombies and drops a live LT53 Kazimir. Left alone, it lures zombies in and explodes. Works on every map. On Ashes of the Damned it smashes the wooden barriers like Tessie, rams Veytherion and carries his aetheric energy. Ashes also hides a Blood Burner at Exit 115: find its key and feed it 50 souls to wake it, and one waits in the boss arena too.",
             "image": "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v2/blood_burner_preview.jpg",
             "files": [
                 {
@@ -136,24 +136,24 @@
             "type": "script",
             "name": "Cursed Reimagined",
             "author": "MeowRaK",
-            "version": "4.0",
-            "description": "Classic-inspired BO7 Zombies overhaul with combined PaP and rarity progression, Green wall-buys and Mystery Box weapons, random Ammo Mods, classic melee, custom armor, and fixed Field Upgrade recharge requirements.",
-            "image": "https://raw.githubusercontent.com/MeowRaK/bo7-cursed-reimagined/main/preview.png",
+            "version": "7.0",
+            "description": "Classic-inspired BO7 Zombies overhaul featuring combined Pack-a-Punch and rarity progression, classic armor and melee, enemy health scaling, armor damage scaling, Enhanced Full Power, and Wonder Weapon damage buffs. Supports Cursed, Cursed Survival, and Mister Peeks Mayhem.",
+            "image": "https://raw.githubusercontent.com/MeowRaK/bo7-cursed-reimagined/main/previewmod.png",
             "files": [
                 {
                     "name": "mod.json",
                     "size": 77,
-                    "hash": "48cf6d43da89b46cbab2501e74368c3a7df184824edf64fe24abb4fe6a60c652",
+                    "hash": "dbf1febe620357d714ddb732b98799aa062f68a466a35e28bd97d085c862a431",
                     "urls": [
-                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/mod.json"
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v7.0/mod.json"
                     ]
                 },
                 {
                     "name": "scripts/zm_cursed_reimagined.gsc",
-                    "size": 71441,
-                    "hash": "1ebd1a4f458feb62333f58491fbb2b01cd1ba6d4f04a98b4ebe720ba695f8d50",
+                    "size": 112898,
+                    "hash": "80b5c8b2c9f9bed61a13ec41c7888757efe90d7bddb2bab6e74bcce8218b29c3",
                     "urls": [
-                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/zm_cursed_reimagined.gsc"
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v7.0/zm_cursed_reimagined.gsc"
                     ]
                 },
                 {
@@ -161,7 +161,23 @@
                     "size": 21013,
                     "hash": "b64919eafaeebd814a7bbfa6e3fae06d0e6e262a2856b767a041dd9c2a0d67a8",
                     "urls": [
-                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/zm_classic_perks_2500.gsc"
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v7.0/zm_classic_perks_2500.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_enhanced_full_power.gsc",
+                    "size": 11948,
+                    "hash": "f1f9e1a06d8d55ef2cecc711524d21e79f46b53eccfc49875248df8459c0a88f",
+                    "urls": [
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v7.0/zm_enhanced_full_power.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_no_health_cap.gsc",
+                    "size": 15391,
+                    "hash": "105b53be49fec09d8846a0be570a94608d2c0dd2082604a66b4dcd11ccee99fe",
+                    "urls": [
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v7.0/zm_no_health_cap.gsc"
                     ]
                 },
                 {
@@ -169,7 +185,7 @@
                     "size": 6567,
                     "hash": "64906c9b0843ec01c892efff1237c8340a7041e4f3d916b1668e7aee3a68981a",
                     "urls": [
-                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/zm_cursed_arsenal_prompt_post.lua"
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v7.0/zm_cursed_arsenal_prompt_post.lua"
                     ]
                 }
             ]
@@ -324,24 +340,24 @@
             "type": "script",
             "name": "bo3 health system",
             "author": "grum_sudo",
-            "version": "1.0.0",
-            "description": "restores black ops 3 health system: 3 hit down with no jugg 5 hit down with jugg. disables armor system ,jug augments, super sprinter zombies, and armoured zombies",
+            "version": "1.0.1",
+            "description": "restores black ops 3 health system: 3 hit down with no jugg 5 hit down with jugg. disables armor system ,jug augments, super sprinter zombies, and armoured zombies. and also rampage inducer enables super sprinters",
             "image": "",
             "files": [
                 {
                     "name": "mod.json",
-                    "size": 90,
-                    "hash": "62140d54b353c9f67b906e4263c841ffb340b9f4ff77705e3dc1381347927d62",
+                    "size": 95,
+                    "hash": "9ac8cbc9179b3d2e4b04eeb57ae4b92921e7ac3e05815463e9279dcdac967e19",
                     "urls": [
-                        "https://github.com/grum-sudo/bo7-mods/releases/download/1.0-bo3_health/mod.json"
+                        "https://github.com/grum-sudo/bo7-mods/releases/download/v1.0.1-bo3_health/mod.json"
                     ]
                 },
                 {
                     "name": "scripts/bo3_health.gsc",
-                    "size": 8506,
-                    "hash": "4504269b3e831eb3336cfe1ad6ec56ea2e63ce8611bd75cf20bff1957cef3b88",
+                    "size": 8460,
+                    "hash": "24cff6d11d4bc3d93f1524198fe94c06b9d5a1abafce7be342f1e531a16e4213",
                     "urls": [
-                        "https://github.com/grum-sudo/bo7-mods/releases/download/1.0-bo3_health/bo3_health.gsc"
+                        "https://github.com/grum-sudo/bo7-mods/releases/download/v1.0.1-bo3_health/bo3_health.gsc"
                     ]
                 }
             ]
@@ -377,24 +393,24 @@
             "type": "script",
             "name": "FuzMenu",
             "author": "Fuzion28",
-            "version": "2.4.2",
+            "version": "2.4.5",
             "description": "Solo Zombies mod menu: god mode, teleports, any weapon or wonder weapon, Pack-a-Punch, perks, gobblegums, rounds, zombies, saved weapon builds and more. Open with Aim + Melee.",
             "image": "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/preview.png",
             "files": [
                 {
                     "name": "mod.json",
                     "size": 76,
-                    "hash": "9b4b7eb5b8d299aae267ef70d1ec8d706898621bc3f1002de1507f5181b0a46d",
+                    "hash": "a71b4209a037f61c7654caf8ceb4dfb8ddfb5f3569e6882328ac63c93c1ffdd1",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/mod.json"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.5/mod.json"
                     ]
                 },
                 {
                     "name": "scripts/zm_mod_menu.gsc",
-                    "size": 145254,
-                    "hash": "ef20d1a8139c5e50b166ebe2a0803ad715bcad13104103b6e4a2da11343f07b9",
+                    "size": 190331,
+                    "hash": "690b9cfd4b78f924e6af290d964f7f9bc44bdb92f805d3ec5427e249e49060bc",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/zm_mod_menu.gsc"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.5/zm_mod_menu.gsc"
                     ]
                 },
                 {
@@ -681,6 +697,306 @@
                     "hash": "96c94a79ec91c912dca2c8b101b7264fe606f4e81cad3e453f668d48c00f53b9",
                     "urls": [
                         "https://github.com/tomwragg13/enhanced_full_power/releases/download/v1/zm_enhanced_full_power.gsc"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "restart_hotkey",
+            "type": "script",
+            "name": "Restart Hotkey",
+            "author": "Max",
+            "version": "1.0",
+            "description": "Instantly restarts the current Zombies match (fast restart, back to round 1): press Interact (F) and Melee (V) at the same time. Host only.",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 289,
+                    "hash": "804b6b06717ef5f8f448ed94b49a228ba9cc06bb8be83171a275b0752e01473f",
+                    "urls": [
+                        "https://github.com/ketsueki96/restart_hotkey_v1.0/releases/download/v1.0/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_restart_hotkey.gsc",
+                    "size": 1074,
+                    "hash": "5757c8b1a6bf0abef81b9c3f5bf7e2330fe1cb136d3b357b6afce73798a19f61",
+                    "urls": [
+                        "https://github.com/ketsueki96/restart_hotkey_v1.0/releases/download/v1.0/zm_restart_hotkey.gsc"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cursed_reimagined_bo3_health",
+            "type": "script",
+            "name": "Cursed Reimagined - BO3 Health Compatible",
+            "author": "MeowRaK",
+            "version": "7.0",
+            "description": "BO3 Health-compatible Cursed Reimagined featuring classic weapon progression, enemy health scaling, Enhanced Full Power, and Wonder Weapon damage buffs. Preserves BO3 Health player health and damage mechanics; requires the standalone BO3 Health mod.",
+            "image": "https://raw.githubusercontent.com/MeowRaK/bo7-cursed-reimagined-bo3-health/main/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 102,
+                    "hash": "1f3e1d579e4ac64c0c72cc4e7152d47f4539ce4c071b7ce07d3088516f22b995",
+                    "urls": [
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined-bo3-health/releases/download/v7.0/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_cursed_reimagined_bo3c.gsc",
+                    "size": 112784,
+                    "hash": "9a1514c8ffdb1fb02d88780eb5aaec531a07755cd81efc5ab81a9a3b846d1630",
+                    "urls": [
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined-bo3-health/releases/download/v7.0/zm_cursed_reimagined_bo3c.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/zm_cursed_arsenal_prompt_post.lua",
+                    "size": 6567,
+                    "hash": "64906c9b0843ec01c892efff1237c8340a7041e4f3d916b1668e7aee3a68981a",
+                    "urls": [
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined-bo3-health/releases/download/v7.0/zm_cursed_arsenal_prompt_post.lua"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "phd_tribologist_fix",
+            "type": "script",
+            "name": "PhD Tribologist Buffed",
+            "author": "Trinity",
+            "version": "1",
+            "description": "Buffs PhD Flopper's Tribologist augment: no 3 second cooldown between slide boosts, a stronger boost, and a higher speed cap. Only affects players with Tribologist equipped.",
+            "image": "https://github.com/Trinifite/kronos-phd-fix/releases/download/v1/tribologist_buffed.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 91,
+                    "hash": "cec0e026c24e43279d5f0679536d5c2a60c1144729f184fc8193669d1217e6b2",
+                    "urls": [
+                        "https://github.com/Trinifite/kronos-phd-fix/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_trin_tribologist.gsc",
+                    "size": 2087,
+                    "hash": "116e362933888a554e561f699f61645d5ee4d6bc6cbbffe183676d286923051a",
+                    "urls": [
+                        "https://github.com/Trinifite/kronos-phd-fix/releases/download/v1/zm_trin_tribologist.gsc"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "fast_restart",
+            "type": "script",
+            "name": "Fast Restart",
+            "author": "Tinhorn",
+            "version": "1",
+            "description": "Old-CoD fast restart in any Zombies match. Crouch, then pause: Save & Quit becomes Fast Restart. Pause standing for the normal Save & Quit.",
+            "image": "https://github.com/The-Tinhorn/bo7-fast-restart/releases/download/v1/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 333,
+                    "hash": "30ae2e9fb376eb10eca4a7a76d03c42785cce639bf0ea5170b060c3932671415",
+                    "urls": [
+                        "https://github.com/The-Tinhorn/bo7-fast-restart/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/fast_restart.gsc",
+                    "size": 2279,
+                    "hash": "65907e9a1f00fd8604ea0edcee5c5e43860abc58ff2e1ce7572ab2a5b61ad2c3",
+                    "urls": [
+                        "https://github.com/The-Tinhorn/bo7-fast-restart/releases/download/v1/fast_restart.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/fast_restart_post.lua",
+                    "size": 4721,
+                    "hash": "af64ca11dc559689ac7edd277e0bf8c79f1fa10bcd5f8e6993dee207023e02dc",
+                    "urls": [
+                        "https://github.com/The-Tinhorn/bo7-fast-restart/releases/download/v1/fast_restart_post.lua"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "aether_blade_lethal",
+            "type": "script",
+            "name": "Aether Blade Lethal",
+            "author": "Shlogbobble",
+            "version": "1",
+            "description": "Endgame's Aether Blade as its own Zombies lethal. Pick AETHER BLADE next to the Combat Axe in your loadout: throw it and it homes in on the nearest zombie, chains through up to 7 of them, then flies back to you and refills after 3 seconds. You can also craft it at the crafting bench (Lethal tab, 4000 salvage), get it from the Mystery Box, and swapping it for another lethal drops it on the ground for anyone to pick up. Its kills count toward the Combat Axe T.E.D.D. trial. Works on every map.",
+            "image": "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/aether_blade_v1/aether_blade_preview.jpg",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 86,
+                    "hash": "e64fce06e6f0fccfaa66d9d28a9de75621cf73a257aca5e41e102b97e472671d",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/aether_blade_v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_aether_blade_lethal.gsc",
+                    "size": 142828,
+                    "hash": "971234bdc27d794f68638759d0f1fa199f745c1b5cca9032eda252ee41896701",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/aether_blade_v1/zm_aether_blade_lethal.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/zm_aether_blade_menu_post.lua",
+                    "size": 52048,
+                    "hash": "742c1c5a9a59ab74562be9096482142ffcd82d7b0410526c5e682d184d69b3b5",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/aether_blade_v1/zm_aether_blade_menu_post.lua"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "perk_remove",
+            "type": "script",
+            "name": "Perk Remove",
+            "author": "Kazuto",
+            "version": "1",
+            "description": "Remove any perk you own at its own machine (Press F / X). No refunds, Eternal perks stay. Standard, Cursed and Mister Peeks Mayhem. Works with Classic Perks.",
+            "image": "https://github.com/SirKazuto/perk-remove/releases/download/v1/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 74,
+                    "hash": "74339b0789c5eaf36d85d093bac83a0fdc844ab961fc18782d9ada56fcccd7bd",
+                    "urls": [
+                        "https://github.com/SirKazuto/perk-remove/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_perk_remove.gsc",
+                    "size": 18601,
+                    "hash": "5fccbca56ebfcbe3c3295c6d9f13327fc5817232145a317a98d51a570b15f2b4",
+                    "urls": [
+                        "https://github.com/SirKazuto/perk-remove/releases/download/v1/zm_perk_remove.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/zm_perk_remove_post.lua",
+                    "size": 6149,
+                    "hash": "1566a1364ed80851167f3571a1fa4f856d03af4149825a5acf9e882f981c2d92",
+                    "urls": [
+                        "https://github.com/SirKazuto/perk-remove/releases/download/v1/zm_perk_remove_post.lua"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "xp_hud_overlay",
+            "type": "ui",
+            "name": "XP HUD Overlay",
+            "author": "ripsawuk",
+            "image": "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/preview.png",
+            "version": "1",
+            "description": "XP HUD Overlay v1.0. Provides a visible overlay on your HUD to show you live XP being earned in game. Various customisation options that can be changed in game from positioning, to colours, to bar types (cats??). Dont like the bar? Disable it. Use the text only. Dont like the text? Disable it, use the bar only. Adjust to your liking. Currently only captures operator levelling and XP.",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 536,
+                    "hash": "665ce8d68995d39856cf749e508223efd11f1e5dc130f91c4f049550d8aa0a13",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "lua/xp_hud_overlay_post.lua",
+                    "size": 79245,
+                    "hash": "4652d3bb06f7771c99e2fee02d1e8ab52ac6ff79eef53212fe88c97e90592aaf",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/xp_hud_overlay_post.lua"
+                    ]
+                },
+                {
+                    "name": "scripts/xp_hud_overlay_store.gsc",
+                    "size": 1538,
+                    "hash": "228c785b1e718fa28a31b4498dc15390a80c830759208ad28fc5abb2686bdc32",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/xp_hud_overlay_store.gsc"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_body.png",
+                    "size": 94,
+                    "hash": "896fdab6a89673721febde36a7575b6e1732ae194ebd30bdf5957a0563c28099",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_body.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_cap.png",
+                    "size": 155,
+                    "hash": "1b1c5f5225a36a41b0459e20530058e95cdd41a261ebbc7eabd5c9a960ed06f4",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_cap.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_dragonstrip.png",
+                    "size": 14758,
+                    "hash": "9662548ac677d03cc02bea3f3612104a85b346f9507a941b0a803ba4f930ea23",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_dragonstrip.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_glow.png",
+                    "size": 4852,
+                    "hash": "1f6e4d4ff9e5d2edcf68e7f71034a6ed6ab457482ece1b38836fcdd63b56a78f",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_glow.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_pawstrip.png",
+                    "size": 14233,
+                    "hash": "6c414cb1b76c36759fb15159a135841a4465bc68d0e13b0ae17c94c32935bd27",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_pawstrip.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_seg.png",
+                    "size": 207,
+                    "hash": "16353f4f10e31b8ea9ee2bf53558d99d057672c88d08f942364058b156ba6c93",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_seg.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_stripe.png",
+                    "size": 78,
+                    "hash": "82436a579671a6efde84357f255ff2bde36be02b828bf9ae9d1acfc9e6f389a9",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_stripe.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_tip.png",
+                    "size": 146,
+                    "hash": "22007a4002881adafdb93ff96f5a24d81a26529e6f9b0d29ce4b43c1b406ff6a",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_tip.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_track.png",
+                    "size": 468,
+                    "hash": "62471bb13452d613763beadb4a1e2c44009e63928551db0a4ece05128912d428",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_track.png"
                     ]
                 }
             ]
