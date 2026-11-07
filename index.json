@@ -990,16 +990,16 @@
             "type": "ui",
             "name": "bo7_recrudescence",
             "author": "Liam McCormack",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "description": "BO7 Zombies overhaul with an expanded Arsenal, in-game attachments, augments and 2,412 camos. Includes a 72-weapon no-repeat Mystery Box, extended upgrades and rebalanced zombie progression.",
-            "image": "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/preview.png",
+            "image": "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/preview.png",
             "files": [
                 {
                     "name": "mod.json",
                     "size": 279,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/mod.json"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/mod.json"
                     ]
                 },
                 {
@@ -1007,7 +1007,7 @@
                     "size": 16891,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_zm_aug_menu.gsc"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_zm_aug_menu.gsc"
                     ]
                 },
                 {
@@ -1015,7 +1015,7 @@
                     "size": 16370,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_zm_box_cycle.gsc"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_zm_box_cycle.gsc"
                     ]
                 },
                 {
@@ -1023,7 +1023,7 @@
                     "size": 7447,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_zm_classic_points.gsc"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_zm_classic_points.gsc"
                     ]
                 },
                 {
@@ -1031,7 +1031,7 @@
                     "size": 2035,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_zm_disable_ammo_box.gsc"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_zm_disable_ammo_box.gsc"
                     ]
                 },
                 {
@@ -1039,7 +1039,7 @@
                     "size": 5234,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_zm_ee_eggs.gsc"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_zm_ee_eggs.gsc"
                     ]
                 },
                 {
@@ -1047,7 +1047,7 @@
                     "size": 7140,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_zm_hp_cap.gsc"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_zm_hp_cap.gsc"
                     ]
                 },
                 {
@@ -1055,7 +1055,7 @@
                     "size": 5925,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_zm_melee_flat.gsc"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_zm_melee_flat.gsc"
                     ]
                 },
                 {
@@ -1063,7 +1063,7 @@
                     "size": 3327,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_zm_no_spawn_augments.gsc"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_zm_no_spawn_augments.gsc"
                     ]
                 },
                 {
@@ -1071,7 +1071,7 @@
                     "size": 3680,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_zm_rarity_nerf.gsc"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_zm_rarity_nerf.gsc"
                     ]
                 },
                 {
@@ -1079,7 +1079,7 @@
                     "size": 2853,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_zm_spawn_cap.gsc"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_zm_spawn_cap.gsc"
                     ]
                 },
                 {
@@ -1087,7 +1087,7 @@
                     "size": 11495,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_zm_standard_upgrades.gsc"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_zm_standard_upgrades.gsc"
                     ]
                 },
                 {
@@ -1095,7 +1095,7 @@
                     "size": 154893,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_zm_weapon_shop.gsc"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_zm_weapon_shop.gsc"
                     ]
                 },
                 {
@@ -1103,7 +1103,7 @@
                     "size": 4726,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_zm_zombie_tweaks.gsc"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_zm_zombie_tweaks.gsc"
                     ]
                 },
                 {
@@ -1111,7 +1111,7 @@
                     "size": 55942,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_arsenal_menu_post.lua"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_arsenal_menu_post.lua"
                     ]
                 },
                 {
@@ -1119,7 +1119,7 @@
                     "size": 156983,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_camo_catalog_post.lua"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_camo_catalog_post.lua"
                     ]
                 },
                 {
@@ -1127,7 +1127,7 @@
                     "size": 18718,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_camos_post.lua"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_camos_post.lua"
                     ]
                 },
                 {
@@ -1135,7 +1135,7 @@
                     "size": 7731,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_points_hud_post.lua"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_points_hud_post.lua"
                     ]
                 },
                 {
@@ -1143,63 +1143,7 @@
                     "size": 34107,
                     "hash": "",
                     "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/recrud_weapons_post.lua"
-                    ]
-                },
-                {
-                    "name": "images/sat_logo_bo6.png",
-                    "size": 44632,
-                    "hash": "",
-                    "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/sat_logo_bo6.png"
-                    ]
-                },
-                {
-                    "name": "images/sat_logo_bo7.png",
-                    "size": 38082,
-                    "hash": "",
-                    "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/sat_logo_bo7.png"
-                    ]
-                },
-                {
-                    "name": "images/sat_logo_mw2.png",
-                    "size": 165944,
-                    "hash": "",
-                    "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/sat_logo_mw2.png"
-                    ]
-                },
-                {
-                    "name": "images/sat_logo_mw3.png",
-                    "size": 21511,
-                    "hash": "",
-                    "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/sat_logo_mw3.png"
-                    ]
-                },
-                {
-                    "name": "images/sat_ui_icon_zm_pap_machine.png",
-                    "size": 7151,
-                    "hash": "",
-                    "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/sat_ui_icon_zm_pap_machine.png"
-                    ]
-                },
-                {
-                    "name": "images/ui_map_icon_cp_mp_exfil.png",
-                    "size": 4367,
-                    "hash": "",
-                    "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/ui_map_icon_cp_mp_exfil.png"
-                    ]
-                },
-                {
-                    "name": "images/ui_map_icon_elite_crown.png",
-                    "size": 9902,
-                    "hash": "",
-                    "urls": [
-                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.0/ui_map_icon_elite_crown.png"
+                        "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.1/recrud_weapons_post.lua"
                     ]
                 }
             ]
