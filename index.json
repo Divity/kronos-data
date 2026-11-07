@@ -324,24 +324,24 @@
             "type": "script",
             "name": "bo3 health system",
             "author": "grum_sudo",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "description": "restores black ops 3 health system: 3 hit down with no jugg 5 hit down with jugg. disables armor system ,jug augments, super sprinter zombies, and armoured zombies. and also rampage inducer enables super sprinters",
             "image": "",
             "files": [
                 {
                     "name": "mod.json",
                     "size": 95,
-                    "hash": "9ac8cbc9179b3d2e4b04eeb57ae4b92921e7ac3e05815463e9279dcdac967e19",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/grum-sudo/bo7-mods/releases/download/v1.0.1-bo3_health/mod.json"
+                        "https://github.com/grum-sudo/bo7-mods/releases/download/v1.0.2-bo3_health/mod.json"
                     ]
                 },
                 {
                     "name": "scripts/bo3_health.gsc",
-                    "size": 8460,
-                    "hash": "24cff6d11d4bc3d93f1524198fe94c06b9d5a1abafce7be342f1e531a16e4213",
+                    "size": 7070,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/grum-sudo/bo7-mods/releases/download/v1.0.1-bo3_health/bo3_health.gsc"
+                        "https://github.com/grum-sudo/bo7-mods/releases/download/v1.0.2-bo3_health/bo3_health.gsc"
                     ]
                 }
             ]
