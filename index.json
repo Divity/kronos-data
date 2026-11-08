@@ -186,17 +186,17 @@
                 {
                     "name": "mod.json",
                     "size": 100,
-                    "hash": "08c341e5c260e4481c3a894657e486735d821996d82e5e854a4d416ec9e1e578",
+                    "hash": "a3bad395fe2afb9466a55b1b9ebcb8a63cafe31cee6cffcffe143f34cc5b7f3a",
                     "urls": [
-                        "https://github.com/7Maverick7/kronos-mock-mp-matchmaking/releases/download/beta/mod.json"
+                        "https://github.com/7Maverick7/kronos-mock-mp-matchmaking/releases/download/1.2-beta/mod.json"
                     ]
                 },
                 {
                     "name": "lua/mp_matchmaking_post.lua",
-                    "size": 141980,
-                    "hash": "d89def252076145b2df0d0328ae60f5e0f7548096942758d759a8feb2304dd67",
+                    "size": 148061,
+                    "hash": "594a6ee04ec13aa6bc9b816b652e4834fb2da442f98ea3dc9bba5baff5405770",
                     "urls": [
-                        "https://github.com/7Maverick7/kronos-mock-mp-matchmaking/releases/download/beta/mp_matchmaking_post.lua"
+                        "https://github.com/7Maverick7/kronos-mock-mp-matchmaking/releases/download/1.2-beta/mp_matchmaking_post.lua"
                     ]
                 }
             ]
