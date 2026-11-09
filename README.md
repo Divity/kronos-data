@@ -9,4 +9,4 @@ Extended View Model FOV & FOV Scale like BO3 Zombies. Made by GPT 6 Luna. Credit
 <img width="1920" height="1080" alt="preview-menu" src="https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/preview-menu.png" />
 
 ## Known Issues
-- Unknown Crash: I cannot confirm the crashing is from this mod or a broken script that i installed. <br>Replicate: Start a match and leave, then repeat starting and leaving matches until crash.
+- Unknown Crashing: Replicate: Start a match and leave, then repeat starting and leaving matches until crash.
