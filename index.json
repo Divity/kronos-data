@@ -433,24 +433,24 @@
             "type": "script",
             "name": "FuzMenu",
             "author": "Fuzion28",
-            "version": "2.5",
-            "description": "Solo Zombies mod menu: god mode, teleports, any weapon or wonder weapon, Pack-a-Punch, perks, gobblegums, rounds, zombies, saved weapon builds and more. Open with Aim + Melee.",
+            "version": "2.5.2",
+            "description": "The all-in-one BO7 Zombies mod menu with a clean custom UI. God mode, teleports, every weapon and Wonder Weapon, Pack-a-Punch, perks, gobblegums, rounds, zombie spawns, Forge, boss fights, speedrun splits and saved builds. Open with Aim + Melee. Discord: Fuzion28",
             "image": "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/preview.png",
             "files": [
                 {
                     "name": "mod.json",
-                    "size": 74,
-                    "hash": "bfad694971ffa9b2bdc81be46cbebbde7a82ab0a3e658d992ea4e54428b37a9e",
+                    "size": 76,
+                    "hash": "a5fddaffabaeacaf0f587613d4c0c0a18b9d11b41dec4511faceabdb1ef74779",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.5/mod.json"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.5.2/mod.json"
                     ]
                 },
                 {
                     "name": "scripts/zm_mod_menu.gsc",
-                    "size": 228414,
-                    "hash": "46a4335e4cd4a0f40438e60e7707bf67666aa5c725cdcfadc16ef767d07de687",
+                    "size": 240007,
+                    "hash": "67c16ca2812e10ea34a0938ed0987d617b8801549dbc3166ecf48513a6bf03c8",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.5/zm_mod_menu.gsc"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.5.2/zm_mod_menu.gsc"
                     ]
                 },
                 {
@@ -463,10 +463,66 @@
                 },
                 {
                     "name": "lua/zm_mod_menu_post.lua",
-                    "size": 19622,
-                    "hash": "0a7ee2787abc6757197298ccd0a09f6f4f95a13e2add40483fb86deb61f337f3",
+                    "size": 19644,
+                    "hash": "61492b6afbb52a5d55b07ae815e989b58c036d0a1d33697372b10b1118e83058",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.5/zm_mod_menu_post.lua"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.5.2/zm_mod_menu_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_splitter_post.lua",
+                    "size": 24506,
+                    "hash": "93a3f936a3fde57e901fc068e1e121c9dfb68b69f3269402713e00b1aff9fbf2",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.5.2/zm_splitter_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_firefly_post.lua",
+                    "size": 678,
+                    "hash": "e52fd0dbdcf38102e2d3558ba532a376b8ab7b248a6e6a936a37f9b2905d9eed",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.5.2/zm_split_zm_sat_firefly_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_hornet_post.lua",
+                    "size": 526,
+                    "hash": "523c64a2fbc19b54cfe6b1547866adb88a087af2b486ca5ff71af825e9dbac5d",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.5.2/zm_split_zm_sat_hornet_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_locust_post.lua",
+                    "size": 807,
+                    "hash": "bedecd4c592294dd667c6cd82ac2ead3d99e335ea5e2b9a4b6ad9bb5da59fa41",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.5.2/zm_split_zm_sat_locust_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_mantis_post.lua",
+                    "size": 542,
+                    "hash": "74bf683c702c1a8bef06fdaa09ad8263327570c8bbf230d94f7b7383371c4072",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.5.2/zm_split_zm_sat_mantis_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_ruby_post.lua",
+                    "size": 666,
+                    "hash": "d50fcbaee063aca0d83f0be360f93ef8113159af53774257c0537edf05532a4f",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.5.2/zm_split_zm_sat_ruby_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_scarab_post.lua",
+                    "size": 534,
+                    "hash": "cb4f83899a4d92ed65129488e13aef6ef8ead153a6406dd11130d4b85d8f49b6",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.5.2/zm_split_zm_sat_scarab_post.lua"
                     ]
                 },
                 {
