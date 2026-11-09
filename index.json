@@ -2310,6 +2310,74 @@
                     ]
                 }
             ]
+        },
+        {
+    "id": "classic_zombies",
+    "type": "script",
+    "name": "Classic Zombies",
+    "author": "Xrmy",
+    "version": "1.0",
+    "description": "Brings BO7 Cursed mode with classic Zombies mechanics: no salvage or rarity, perk limit, 1911 classic damage, improved zombies spawns, all switchable from an in-game menu.",
+    "image": "https://github.com/Xrmy/classic-zombies/releases/download/v1.0/preview.png",
+    "files": [
+        {
+            "name": "mod.json",
+            "size": 78,
+            "hash": "",
+            "urls": [
+                "https://github.com/Xrmy/classic-zombies/releases/download/v1.0/mod.json"
+            ]
+        },
+        {
+            "name": "scripts/zm_classic_mod.gsc",
+            "size": 73997,
+            "hash": "",
+            "urls": [
+                "https://github.com/Xrmy/classic-zombies/releases/download/v1.0/zm_classic_mod.gsc.txt"
+            ]
+        },
+        {
+            "name": "scripts/zm_classic_plus.gsc",
+            "size": 43857,
+            "hash": "",
+            "urls": [
+                "https://github.com/Xrmy/classic-zombies/releases/download/v1.0/zm_classic_plus.gsc.txt"
+            ]
+        },
+        {
+            "name": "scripts/zm_classic_menu.gsc",
+            "size": 13580,
+            "hash": "",
+            "urls": [
+                "https://github.com/Xrmy/classic-zombies/releases/download/v1.0/zm_classic_menu.gsc.txt"
+            ]
+        },
+        {
+            "name": "lua/zm_classic_menu_post.lua",
+            "size": 13346,
+            "hash": "",
+            "urls": [
+                "https://github.com/Xrmy/classic-zombies/releases/download/v1.0/zm_classic_menu_post.lua.txt"
+            ]
+        },
+        {
+            "name": "lua/zm_classic_plus_hud_post.lua",
+            "size": 5540,
+            "hash": "",
+            "urls": [
+                "https://github.com/Xrmy/classic-zombies/releases/download/v1.0/zm_classic_plus_hud_post.lua.txt"
+            ]
+        },
+        {
+            "name": "lua/zm_classic_arsenal_prompt_post.lua",
+            "size": 5600,
+            "hash": "",
+            "urls": [
+                "https://github.com/Xrmy/classic-zombies/releases/download/v1.0/zm_classic_arsenal_prompt_post.lua.txt"
+            ]
         }
+    ]
+}
+
     ]
 }
