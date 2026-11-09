@@ -2317,7 +2317,7 @@
             "name": "Extended FOV",
             "author": "Krimsinx",
             "version": "1",
-            "description": "BO7 Zombies Extended FOV Mod for Kronos Launcher. Extended View Model FOV & FOV Scale like BO3 Zombies. Includes a menu to change the settings.",
+            "description": "BO7 Zombies Extended FOV Mod for Kronos Launcher. Extended View Model FOV & FOV Scale like BO3 Zombies. Features an option in the pause menu to change the settings. Settings persist across restarts.",
             "image": "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/preview.png",
             "files": [
                 {
