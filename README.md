@@ -1,6 +1,6 @@
 # BO7 Zombies Extended FOV Mod for Kronos Launcher
 
-Extended View Model FOV & FOV Scale like BO3 Zombies. Made by GPT 6 Luna. Credit to ripsawuk XP Progress Bar mod for the menu and saving feature.
+Extended View Model FOV & FOV Scale like BO3 Zombies. Made with ChatGPT. Credit to ripsawuk XP Progress Bar mod for the menu and saving feature.
 
 ## Before & After Preview
 <img width="1920" height="1080" alt="preview" src="https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/preview.png" />
