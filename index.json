@@ -2310,6 +2310,481 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "blood_vials",
+            "type": "ui",
+            "name": "Blood Vials",
+            "author": "Omar",
+            "version": "1.50",
+            "description": "Earn Blood Vials in Zombies and open crates for seasonal guns, blueprints, augments, relics and wonder weapon skins. Gear, attachments and camos unlock by level and challenges.",
+            "image": "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 333,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mod.json"
+                    ]
+                },
+                {
+                    "name": "lua/blood_vials_chal_post.lua",
+                    "size": 215733,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/blood_vials_chal_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/blood_vials_data_post.lua",
+                    "size": 177340,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/blood_vials_data_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/blood_vials_post.lua",
+                    "size": 177629,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/blood_vials_post.lua"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_blood_vials.gsc",
+                    "size": 16121,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/zm_blood_vials.gsc"
+                    ]
+                },
+                {
+                    "name": "images/abox_beam.png",
+                    "size": 179907,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_beam.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_glow.png",
+                    "size": 368143,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_glow.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_00.png",
+                    "size": 580965,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_00.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_01.png",
+                    "size": 580719,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_01.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_02.png",
+                    "size": 578906,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_02.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_03.png",
+                    "size": 585687,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_03.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_04.png",
+                    "size": 598123,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_04.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_05.png",
+                    "size": 612323,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_05.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_06.png",
+                    "size": 613559,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_06.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_07.png",
+                    "size": 629612,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_07.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_08.png",
+                    "size": 689560,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_08.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_09.png",
+                    "size": 719406,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_09.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_10.png",
+                    "size": 709884,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_10.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_11.png",
+                    "size": 712960,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_11.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_12.png",
+                    "size": 711453,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_12.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_shadow.png",
+                    "size": 203667,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_shadow.png"
+                    ]
+                },
+                {
+                    "name": "images/bv_vial.png",
+                    "size": 29715,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/bv_vial.png"
+                    ]
+                },
+                {
+                    "name": "images/bv_vial_apothicon.png",
+                    "size": 55672,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/bv_vial_apothicon.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_beam.png",
+                    "size": 33681,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_beam.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_bg_ellipse.png",
+                    "size": 4048,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_bg_ellipse.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_bg_ember.png",
+                    "size": 2633,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_bg_ember.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_bg_forest.png",
+                    "size": 1507240,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_bg_forest.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_bg_glow.png",
+                    "size": 3708,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_bg_glow.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_bg_smoke.png",
+                    "size": 93663,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_bg_smoke.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_bg_wisp.png",
+                    "size": 59702,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_bg_wisp.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_body.png",
+                    "size": 402546,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_body.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_dot.png",
+                    "size": 1435,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_dot.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_glow.png",
+                    "size": 35151,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_glow.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_lid.png",
+                    "size": 236739,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_lid.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_qbloom.png",
+                    "size": 9444,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_qbloom.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_qface.png",
+                    "size": 7796,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_qface.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_ray.png",
+                    "size": 44927,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_ray.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_shadow.png",
+                    "size": 7869,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_shadow.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_vig_b.png",
+                    "size": 128,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_vig_b.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_vig_l.png",
+                    "size": 129,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_vig_l.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_vig_r.png",
+                    "size": 124,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_vig_r.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_vig_t.png",
+                    "size": 138,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_vig_t.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_beam.png",
+                    "size": 185321,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_beam.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_glow.png",
+                    "size": 351973,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_glow.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_00.png",
+                    "size": 377939,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_00.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_01.png",
+                    "size": 380292,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_01.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_02.png",
+                    "size": 378069,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_02.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_03.png",
+                    "size": 382639,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_03.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_04.png",
+                    "size": 382373,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_04.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_05.png",
+                    "size": 379996,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_05.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_06.png",
+                    "size": 377183,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_06.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_07.png",
+                    "size": 397124,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_07.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_08.png",
+                    "size": 471750,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_08.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_09.png",
+                    "size": 470023,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_09.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_10.png",
+                    "size": 469420,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_10.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_11.png",
+                    "size": 471317,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_11.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_12.png",
+                    "size": 471282,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_12.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_shadow.png",
+                    "size": 200619,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_shadow.png"
+                    ]
+                }
+            ]
         }
     ]
 }
