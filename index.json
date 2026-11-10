@@ -901,32 +901,32 @@
             "type": "script",
             "name": "Boss Battle",
             "author": "Tinhorn",
-            "version": "0.8",
+            "version": "1.0",
             "description": "Infinite Warfare style boss battles on every map. Pick the Boss Battle tile (it replaces Directed), gear up with max money and every machine, then take the yellow (round 40) or red (round 100) portal to fight the boss against the clock.",
-            "image": "https://github.com/The-Tinhorn/bo7-boss-battle/releases/download/boss_battle-v0.8/preview.png",
+            "image": "https://github.com/The-Tinhorn/bo7-boss-battle/releases/download/boss_battle-v1.0/preview.png",
             "files": [
                 {
                     "name": "mod.json",
                     "size": 485,
                     "hash": "",
                     "urls": [
-                        "https://github.com/The-Tinhorn/bo7-boss-battle/releases/download/boss_battle-v0.8/mod.json"
+                        "https://github.com/The-Tinhorn/bo7-boss-battle/releases/download/boss_battle-v1.0/mod.json"
                     ]
                 },
                 {
                     "name": "scripts/boss_battle.gsc",
-                    "size": 55459,
+                    "size": 85898,
                     "hash": "",
                     "urls": [
-                        "https://github.com/The-Tinhorn/bo7-boss-battle/releases/download/boss_battle-v0.8/boss_battle.gsc"
+                        "https://github.com/The-Tinhorn/bo7-boss-battle/releases/download/boss_battle-v1.0/boss_battle.gsc"
                     ]
                 },
                 {
                     "name": "lua/boss_battle_post.lua",
-                    "size": 8780,
+                    "size": 11140,
                     "hash": "",
                     "urls": [
-                        "https://github.com/The-Tinhorn/bo7-boss-battle/releases/download/boss_battle-v0.8/boss_battle_post.lua"
+                        "https://github.com/The-Tinhorn/bo7-boss-battle/releases/download/boss_battle-v1.0/boss_battle_post.lua"
                     ]
                 }
             ]
