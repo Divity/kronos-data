@@ -448,7 +448,7 @@
                 {
                     "name": "scripts/zm_mod_menu.gsc",
                     "size": 243105,
-                    "hash": "cf324f36536ed545de957dcf4cd49f2f4402ab9bbca2ef9d7174f2a752c11dd3",
+                    "hash": "fb49ba52684fe4399b1a9188f620832919a55226ecc8d20bbe6251f5bab600fc",
                     "urls": [
                         "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_mod_menu.gsc"
                     ]
@@ -495,8 +495,8 @@
                 },
                 {
                     "name": "lua/zm_splitter_post.lua",
-                    "size": 26451,
-                    "hash": "41327d17b09243102c0c8d7df2c8d1b472d171feda407822474bd03535743766",
+                    "size": 26450,
+                    "hash": "f665958c0d612346990989b33cfde7aeecefdaa918bd8526b9c8cd7fd378e9dd",
                     "urls": [
                         "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_splitter_post.lua"
                     ]
