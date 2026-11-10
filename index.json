@@ -2310,6 +2310,41 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "void_claw",
+            "type": "script",
+            "name": "Void Claw",
+            "author": "Shlogbobble",
+            "version": "1",
+            "description": "Rex Infernus' Void Claw as an unlimited-use tactical on every Zombies map. Pick it in your loadout, craft it at the crafting bench (Tactical tab), or get it from the Mystery Box; replacing it drops it on the floor for anyone to take. It also grapples past invisible walls and onto out-of-bounds spots, and there's no out-of-bounds timer or death barriers, with zombies following you out there. Bonus: Mr. Peeks' headphones easter egg drops a Void Claw too.",
+            "image": "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/void_claw_v1/void_claw_preview.jpg",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 76,
+                    "hash": "666e5cffb225bc2cadc56d54665313abae440005225aaafbf011b2faada5bd1b",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/void_claw_v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_void_claw.gsc",
+                    "size": 56765,
+                    "hash": "2f1c3be5aefe5a3a2cdd02bb00c0e5c2b6cc3972453568ca0c7b8c4f031a29f7",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/void_claw_v1/zm_void_claw.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/zm_void_claw_menu_post.lua",
+                    "size": 24358,
+                    "hash": "4e9b7e4def526710b71cd6c7469722a6718dbbd16dce5281815462fcce967d04",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/void_claw_v1/zm_void_claw_menu_post.lua"
+                    ]
+                }
+            ]
         }
     ]
 }
