@@ -694,6 +694,7 @@
             "author": "Fuzion28",
             "version": "1.1",
             "description": "Speedrun timer for BO7 Zombies: automatic splits on all 6 maps, PB and best segment tracking, LiveSplit-style panel and autosplitter. Pause menu(ESC) : timer mode, EE or PaP mode, start speedrun. F8 fast restart.",
+            "image": "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.1/preview.png",
             "files": [
                 {
                     "name": "mod.json",
