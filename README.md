@@ -12,4 +12,4 @@ For a stripped down version of the mod without the menu and saving features -> [
 <img width="1920" height="1080" alt="preview-menu" src="https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/preview-menu.png" />
 
 ## Known Issues
-- none
+- Inconsistent crashing when loading into a match.
