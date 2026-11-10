@@ -2338,8 +2338,8 @@
                 },
                 {
                     "name": "lua/extended_fov_post.lua",
-                    "size": 23000,
-                    "hash": "4445d87bc14f985fa7e6e34ec126eddcdab94fc864006a3b47959b54f8711f33",
+                    "size": 24000,
+                    "hash": "401f8b8718b14b91aa38a85cbde0f7201c98f8f20a3c8d3c73f606adc973ba8a",
                     "urls": [
                         "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/extended_fov_post.lua"
                     ]
