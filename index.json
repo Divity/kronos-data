@@ -3097,6 +3097,185 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "endgame_offline_overhaul",
+            "type": "script",
+            "name": "Endgame Offline Overhaul",
+            "author": "Kingmemarley",
+            "version": "1",
+            "description": "Play Endgame offline: saved progress and Operations, Nightmare missions, ally bots that match your Combat Rating, and a boss difficulty choice (Easy, Normal, Hard, Authentic).",
+            "image": "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 365,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_allies.gsc",
+                    "size": 186020,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_allies.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_bosses.gsc",
+                    "size": 21882,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_bosses.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_colossus.gsc",
+                    "size": 19867,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_colossus.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_enable.gsc",
+                    "size": 3954,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_enable.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_falkner.gsc",
+                    "size": 15322,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_falkner.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_gunmeta.gsc",
+                    "size": 12490,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_gunmeta.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_nightmare.gsc",
+                    "size": 40896,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_nightmare.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_offline.gsc",
+                    "size": 143396,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_offline.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_skills.gsc",
+                    "size": 10668,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_skills.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_strike.gsc",
+                    "size": 23313,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_strike.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_a_lui_memory_post.lua",
+                    "size": 2976,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_a_lui_memory_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_b_leave_post.lua",
+                    "size": 7696,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_b_leave_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_c_ops_progress_post.lua",
+                    "size": 13961,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_c_ops_progress_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_d_ops_save_post.lua",
+                    "size": 16323,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_d_ops_save_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_e_nightmare_post.lua",
+                    "size": 12683,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_e_nightmare_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_f_inventory_post.lua",
+                    "size": 91228,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_f_inventory_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_g_endgame_post.lua",
+                    "size": 74502,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_g_endgame_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_h_cac_passthrough_post.lua",
+                    "size": 8127,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_h_cac_passthrough_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_y_debug_post.lua",
+                    "size": 2595,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_y_debug_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_z_gc_post.lua",
+                    "size": 3687,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_z_gc_post.lua"
+                    ]
+                }
+            ]
         }
     ]
 }
