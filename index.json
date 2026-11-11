@@ -3097,6 +3097,33 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "gunsmith_appearance_tab",
+            "type": "ui",
+            "name": "Gunsmith Appearance Tab",
+            "author": "nanusl",
+            "version": "1.0",
+            "description": "Shows the Appearance tab in Gunsmith customization. Offline, that tab is hidden because the blueprint appearance check is off. This forces the tab to stay visible and turns that check on. Camo, reticle, charm, decal, and sticker tabs are left unchanged.",
+            "image": "https://github.com/nanusl/BO7-Gunsmith-Appearance-Tab/releases/download/v1/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 88,
+                    "hash": "908d03d75ca9b299e6dfaf4efac4a781b781ff9a1dd920025c9a28da6a9e94b7",
+                    "urls": [
+                        "https://github.com/nanusl/BO7-Gunsmith-Appearance-Tab/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "lua/gunsmith_skins_post.lua",
+                    "size": 3401,
+                    "hash": "a1ab4933589e1010db3a2935b2cdbe31bd8b9948f01623253d157969e9bd3030",
+                    "urls": [
+                        "https://github.com/nanusl/BO7-Gunsmith-Appearance-Tab/releases/download/v1/gunsmith_skins_post.lua"
+                    ]
+                }
+            ]
         }
     ]
 }
