@@ -1,16 +1,15 @@
-# Kronos Workshop
+# BO7 Zombies Extended FOV Mod for Kronos Launcher
 
-The content list for the Workshop in the Kronos launcher for Call of Duty: Black Ops 7.
+Extended View Model FOV & FOV Scale like BO3 Zombies. Made with ChatGPT. Credit to ripsawuk XP Progress Bar mod for the menu and saving feature.
+<br>
+<br>
+For a stripped down version of the mod without the menu and saving features -> [bo7-extended-fov-stripped](https://github.com/Krimsinxx/bo7-extended-fov-stripped)
 
-The Workshop is a page in the launcher. It reads `index.json` from this repository, shows every mod in it, and installs them for you:
+## Before & After Preview
+<img width="1920" height="1080" alt="preview" src="https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/preview.png" />
 
-- Every mod goes to `cod25/kronos/mods/<id>/`
-- Scripts, UI and asset mods all install the same way; the type only sets the tag on the card
+## Menu Preview
+<img width="1920" height="1080" alt="preview-menu" src="https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/preview-menu.png" />
 
-Installed mods show on the launcher's Library page and in the game's Mods menu, where they can be turned on or off.
-
-Every file is checked against the SHA-256 hash in `index.json` before it is installed. A file that does not match is deleted. The list itself is signed; the launcher ignores a list that has been changed by anyone else.
-
-## Submitting
-
-Read the [wiki](https://github.com/Divity/kronos-data/wiki).
+## Known Issues
+- Inconsistent crashing when loading into Rex Infernus. Needs to be tested on a clean install of Kronos.

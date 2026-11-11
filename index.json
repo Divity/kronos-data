@@ -2310,6 +2310,41 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "extended_fov",
+            "type": "ui",
+            "name": "Extended FOV",
+            "author": "Krimsinx",
+            "version": "1",
+            "description": "BO7 Zombies Extended FOV Mod for Kronos Launcher. Extended View Model FOV & FOV Scale like BO3 Zombies. Features an option in the pause menu to change the settings. Settings persist across restarts.",
+            "image": "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 82,
+                    "hash": "d3a67d4c1b53fbbeee45c89a15c9a2ca4e6abf7110290395b6f098f65a2e442b",
+                    "urls": [
+                        "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/extended_fov_store.gsc",
+                    "size": 1080,
+                    "hash": "c0ef3f7f579433d5905bc266725e7848bc3acb87f539fff4eb869edc69c8cb85",
+                    "urls": [
+                        "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/extended_fov_store.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/extended_fov_post.lua",
+                    "size": 24000,
+                    "hash": "401f8b8718b14b91aa38a85cbde0f7201c98f8f20a3c8d3c73f606adc973ba8a",
+                    "urls": [
+                        "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/extended_fov_post.lua"
+                    ]
+                }
+            ]
         }
     ]
 }
