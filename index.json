@@ -222,160 +222,128 @@
             "type": "script",
             "name": "BO7 - World Builder",
             "author": "ZMRev",
-            "version": "1.70 / s1.22",
+            "version": "1.69 / s1.21",
             "description": "Build your own version of any map. Press F8 to spawn props, machines and zombies, move or delete what's already there, change the sky, and save your layout to load again later.",
-            "image": "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/forge_tool_preview.png",
+            "image": "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/forge_tool_preview.png",
             "files": [
                 {
                     "name": "mod.json",
-                    "size": 91,
-                    "hash": "",
+                    "size": 92,
+                    "hash": "0c2cbc2bfa8d1dc5f9ce614e1996153ba0cfb02c4ff99d4e14c4abc6ba0a89cd",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/mod.json"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/mod.json"
                     ]
                 },
                 {
                     "name": "scripts/modtools.gsc",
-                    "size": 278580,
-                    "hash": "",
+                    "size": 276536,
+                    "hash": "7dc89072a5044c8c4d489ec514d7f2841ed9a1cb87a57059424c36542907ea0f",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_mp.gsc",
-                    "size": 88025,
-                    "hash": "",
+                    "size": 87832,
+                    "hash": "429c0875ab0a19599284a0a47415be8ebe4b97c5a027dd527415d64884ec1487",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_mp.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_mp.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_ob.gsc",
                     "size": 28098,
-                    "hash": "",
+                    "hash": "c14588dea6dec2cf9e7a8eb9913e21147a805f55fde79705b1463bc9dd6301b9",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_ob.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_ob.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm.gsc",
-                    "size": 388390,
-                    "hash": "",
+                    "size": 270193,
+                    "hash": "2753ccc5c3c4fa2f8711d26a28a955218ab72e02c96e00d19eb4aad8a77842a7",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_anvil.gsc",
                     "size": 9153,
-                    "hash": "",
+                    "hash": "1051e8b3ba4b84c8bcec966b243c7a9a3c7a74d6a885431edd5bd3563d47502e",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_anvil.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_anvil.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_bgb.gsc",
                     "size": 192,
-                    "hash": "",
+                    "hash": "3ec7d6b35570cfaac9c4bbbc389dded73fcbc29a35c0f348449fb9e4deb7a2f7",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_bgb.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_bgb.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_exfil.gsc",
                     "size": 6971,
-                    "hash": "",
+                    "hash": "9687ab193ce86e70c9878c754981d3237c127e1ce9f1f21c92d2a6dea801d456",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_exfil.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_exfil.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_hornet.gsc",
                     "size": 764,
-                    "hash": "",
+                    "hash": "9d9a850c417605af8d824b789d66bd33fde4b12e11f9d0a5f7ab2e84c511bba8",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_hornet.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_hornet.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_rampage.gsc",
                     "size": 2582,
-                    "hash": "",
+                    "hash": "89f1485c9af86270c617938c2d31b5052e4b3903994bdc33f79ec58fdd29ab57",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_rampage.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_rampage.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_reward.gsc",
-                    "size": 36330,
-                    "hash": "",
+                    "size": 32451,
+                    "hash": "72071e84b089e332b966daa9f5073baf79e71983bc52eedfa67f5b2a189850b9",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_reward.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_reward.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_tedd.gsc",
                     "size": 403,
-                    "hash": "",
+                    "hash": "f194ac85c3880bc9d5b6661e1077c37af8d39f314b7b1e95298622abf64176ad",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_tedd.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_tedd.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_tt.gsc",
                     "size": 576,
-                    "hash": "",
+                    "hash": "a144c768ef9a39fb323fa64518086d6ee4f5b0db6c7d857079506f0925f4a14f",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_tt.gsc"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/modtools_zm_tt.gsc"
                     ]
                 },
                 {
                     "name": "lua/zm_builder_models_post.lua",
                     "size": 1524284,
-                    "hash": "",
+                    "hash": "b7503619b95cca591abe40e92d13004f2f6c467f96c0c52c17c6aed2d04f3256",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/zm_builder_models_post.lua"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/zm_builder_models_post.lua"
                     ]
                 },
                 {
                     "name": "lua/zm_builder_post.lua",
-                    "size": 568409,
-                    "hash": "",
+                    "size": 483598,
+                    "hash": "eb067c87d1102cb0417323b0d28104003884c0296deeeea63b5c58fdc98f83b4",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/zm_builder_post.lua"
-                    ]
-                },
-                {
-                    "name": "images/wb_rc_bl.png",
-                    "size": 981,
-                    "hash": "",
-                    "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/wb_rc_bl.png"
-                    ]
-                },
-                {
-                    "name": "images/wb_rc_br.png",
-                    "size": 925,
-                    "hash": "",
-                    "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/wb_rc_br.png"
-                    ]
-                },
-                {
-                    "name": "images/wb_rc_tl.png",
-                    "size": 972,
-                    "hash": "",
-                    "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/wb_rc_tl.png"
-                    ]
-                },
-                {
-                    "name": "images/wb_rc_tr.png",
-                    "size": 968,
-                    "hash": "",
-                    "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/wb_rc_tr.png"
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.69-s1.21/zm_builder_post.lua"
                     ]
                 }
             ]
