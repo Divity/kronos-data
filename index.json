@@ -1352,6 +1352,97 @@
             ]
         },
         {
+            "id": "fuzspeedrun",
+            "type": "script",
+            "name": "FuzSpeedrun",
+            "author": "Fuzion28",
+            "version": "1.2",
+            "description": "Speedrun timer for BO7 Zombies: automatic splits on all 6 maps, PB and best segment tracking, LiveSplit-style panel and autosplitter. Pause menu(ESC) : timer mode, EE or PaP mode, start speedrun. F8 fast restart.",
+            "image": "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 83,
+                    "hash": "148796b26025d18a0873a3f428ff4988971dcf7c48f375db7a1a85edab456ec1",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_speedrun.gsc",
+                    "size": 37961,
+                    "hash": "64b3770bbcc6e7257901f2b87afa4d8a09df8ef6bcdaa1a63e6dc300b272c365",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_speedrun.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/zm_mod_menu_post.lua",
+                    "size": 24225,
+                    "hash": "7a4bf52b4562d13c5675e59a156311f4b48aae6c0b0360c301a175c6b26f8e99",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_mod_menu_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_firefly_post.lua",
+                    "size": 691,
+                    "hash": "fee6e8f5c1d4873795c684228eca137c649c2b4d6a1cd1e273de9a4333185a11",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_split_zm_sat_firefly_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_hornet_post.lua",
+                    "size": 537,
+                    "hash": "c1c7003994c571a372a49364bc147a2fdeaa3974ce189bde41b70fe6d76ad764",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_split_zm_sat_hornet_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_locust_post.lua",
+                    "size": 821,
+                    "hash": "2a5e94c9fef7254f3b951332c836152e1dc813d2d105369f26a96c2861bbbe1c",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_split_zm_sat_locust_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_mantis_post.lua",
+                    "size": 553,
+                    "hash": "3fcadb332855168d31bc1ff7c21dfcdfc1ddb5981e4c4fe6d3a5f93fe9580434",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_split_zm_sat_mantis_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_ruby_post.lua",
+                    "size": 679,
+                    "hash": "e3589b90031763296a8e0274c1841fadf44cb95b875c18106fe2d2f48cbb7be0",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_split_zm_sat_ruby_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_scarab_post.lua",
+                    "size": 545,
+                    "hash": "9a2cf5f3591f2ded9afb4933c9227fc002f691f7266aceded8581a0a1226066d",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_split_zm_sat_scarab_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_splitter_post.lua",
+                    "size": 26855,
+                    "hash": "9d4ac56586800abb4565302d7674ac17f5945206819f33f336bca03d327a1b53",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_splitter_post.lua"
+                    ]
+                }
+            ]
+        },
+        {
             "id": "first_box_bo3_mark2",
             "type": "script",
             "name": "First Box Patch All Maps & BO3 Raygun Mark II Damage",
