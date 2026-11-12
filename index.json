@@ -222,24 +222,24 @@
             "type": "script",
             "name": "BO7 - World Builder",
             "author": "ZMRev",
-            "version": "1.70 / s1.22",
+            "version": "1.70.1 / s1.22",
             "description": "Build your own version of any map. Press F8 to spawn props, machines and zombies, move or delete what's already there, change the sky, and save your layout to load again later.",
-            "image": "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/forge_tool_preview.png",
+            "image": "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/forge_tool_preview.png",
             "files": [
                 {
                     "name": "mod.json",
-                    "size": 91,
+                    "size": 93,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/mod.json"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/mod.json"
                     ]
                 },
                 {
                     "name": "scripts/modtools.gsc",
-                    "size": 278580,
+                    "size": 348974,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools.gsc"
                     ]
                 },
                 {
@@ -247,7 +247,7 @@
                     "size": 88025,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_mp.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_mp.gsc"
                     ]
                 },
                 {
@@ -255,15 +255,15 @@
                     "size": 28098,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_ob.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_ob.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm.gsc",
-                    "size": 388390,
+                    "size": 475583,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm.gsc"
                     ]
                 },
                 {
@@ -271,15 +271,15 @@
                     "size": 9153,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_anvil.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_anvil.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_bgb.gsc",
-                    "size": 192,
+                    "size": 453,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_bgb.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_bgb.gsc"
                     ]
                 },
                 {
@@ -287,7 +287,7 @@
                     "size": 6971,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_exfil.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_exfil.gsc"
                     ]
                 },
                 {
@@ -295,7 +295,15 @@
                     "size": 764,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_hornet.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_hornet.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_zm_quote.gsc",
+                    "size": 13766,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_quote.gsc"
                     ]
                 },
                 {
@@ -303,23 +311,31 @@
                     "size": 2582,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_rampage.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_rampage.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_reward.gsc",
-                    "size": 36330,
+                    "size": 37388,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_reward.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_reward.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_zm_task.gsc",
+                    "size": 10862,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_task.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_tedd.gsc",
-                    "size": 403,
+                    "size": 18019,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_tedd.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_tedd.gsc"
                     ]
                 },
                 {
@@ -327,7 +343,7 @@
                     "size": 576,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_tt.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_tt.gsc"
                     ]
                 },
                 {
@@ -335,15 +351,15 @@
                     "size": 1524284,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/zm_builder_models_post.lua"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/zm_builder_models_post.lua"
                     ]
                 },
                 {
                     "name": "lua/zm_builder_post.lua",
-                    "size": 568409,
+                    "size": 598861,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/zm_builder_post.lua"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/zm_builder_post.lua"
                     ]
                 },
                 {
@@ -351,7 +367,7 @@
                     "size": 981,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/wb_rc_bl.png"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/wb_rc_bl.png"
                     ]
                 },
                 {
@@ -359,7 +375,7 @@
                     "size": 925,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/wb_rc_br.png"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/wb_rc_br.png"
                     ]
                 },
                 {
@@ -367,7 +383,7 @@
                     "size": 972,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/wb_rc_tl.png"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/wb_rc_tl.png"
                     ]
                 },
                 {
@@ -375,7 +391,7 @@
                     "size": 968,
                     "hash": "",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/wb_rc_tr.png"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/wb_rc_tr.png"
                     ]
                 }
             ]
@@ -3100,3 +3116,4 @@
         }
     ]
 }
+ 
