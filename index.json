@@ -136,7 +136,7 @@
             "type": "script",
             "name": "Cursed Reimagined",
             "author": "MeowRaK",
-            "version": "8.0",
+            "version": "8.1",
             "description": "Classic-inspired BO7 Zombies overhaul featuring combined Pack-a-Punch and rarity progression, reworked directional armor protection, classic melee, enemy health scaling, armor damage scaling, Enhanced Full Power, and Wonder Weapon damage buffs. Supports Cursed, Cursed Survival, and Mister Peeks Mayhem.",
             "image": "https://raw.githubusercontent.com/MeowRaK/bo7-cursed-reimagined/main/previewmod.png",
             "files": [
@@ -150,10 +150,10 @@
                 },
                 {
                     "name": "scripts/zm_cursed_reimagined.gsc",
-                    "size": 121760,
-                    "hash": "34e6cacc5b46c8a52ccf8c50f46f41fb496138df45cc803540edf96c195de426",
+                    "size": 124148,
+                    "hash": "1be694da955c5a9d2669779596409a8e66198f1fedee6d933f3b44a3d20b0140",
                     "urls": [
-                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v8.0/zm_cursed_reimagined.gsc"
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v8.1/zm_cursed_reimagined.gsc"
                     ]
                 },
                 {
