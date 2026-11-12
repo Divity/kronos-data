@@ -3094,6 +3094,28 @@
                     "hash": "470ef0c19df43172e6729cb958aafbf6a9a1121da2a2a7a22f5dfbcddcd6c176",
                     "urls": [
                         "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.2/recrud_weapons_post.lua"
+                 {
+                    "id": "zm_classic_mod",
+                    "type": "script",
+                    "name": "All Round Classic Mod",
+                    "author": "LAGZY",
+                    "version": "1",
+                    "description": "Classic bo3 hit system & health (no armor), No Super Sprinters, Omni movement Toggle (aim/knife) to toggle on or off, Black ops 1 Insta Kill, Rounds (start at 163) Then every other round!, Monkeys & Kazmirs in the box, Wonder Weapons Deal Infinite Damage!(When PAP III) Except the raygun mk1 & mk2, Classic Perk Prices & wonderfiz is random & now cost 1500, Raygun mk1 Does more damage on Special rounds and against Specials/Elites But does have fall off damage against normal zombies, Special Rounds Now have capped spawns So no more long rounds! (PLAYS BETTER IN CURSED FOR FULL CLASSIC EXPERIANCE)",
+                {
+                    "name": "mod.json",
+                    "size": 383,
+                    "urls": ["https://github.com/LAGZY94/All-Round-Classic-Mod/blob/main/all_round_classic_mod/mod.json"]
+                    ]
+                },
+                {
+                    "name": "scripts/zm_classic_mod",
+                    "size": 67,
+                    "urls": ["https://github.com/LAGZY94/All-Round-Classic-Mod/blob/main/all_round_classic_mod/scripts/zm_classic_mod.gsc"]
+                 {
+                    "name": "scripts/zm_raygun_damage",
+                    "size": 3.85,
+                    "urls": ["https://github.com/LAGZY94/All-Round-Classic-Mod/blob/main/all_round_classic_mod/scripts/zm_raygun_damage.gsc"]
+                    
                     ]
                 }
             ]
