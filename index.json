@@ -3097,6 +3097,113 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "blackwater_lake",
+            "type": "script",
+            "name": "Blackwater Lake",
+            "author": "DellxCell",
+            "version": "1.0",
+            "description": "Survival at the lake, cabin and cliffs of Ashes of the Damned. Appears in Zombies > Survival and Cursed Survival.",
+            "image": "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/preview.jpg",
+            "files": [
+                {
+                    "name": "images/blackwater_intro_01.png",
+                    "size": 8601955,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/blackwater_intro_01.png"
+                    ]
+                },
+                {
+                    "name": "images/blackwater_intro_02.png",
+                    "size": 8754692,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/blackwater_intro_02.png"
+                    ]
+                },
+                {
+                    "name": "images/blackwater_intro_03.png",
+                    "size": 8344105,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/blackwater_intro_03.png"
+                    ]
+                },
+                {
+                    "name": "images/blackwater_intro_04.png",
+                    "size": 8698528,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/blackwater_intro_04.png"
+                    ]
+                },
+                {
+                    "name": "images/blackwater_intro_05.png",
+                    "size": 8948055,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/blackwater_intro_05.png"
+                    ]
+                },
+                {
+                    "name": "images/blackwater_lake_save.png",
+                    "size": 1890717,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/blackwater_lake_save.png"
+                    ]
+                },
+                {
+                    "name": "lua/blackwater_intro_post.lua",
+                    "size": 8091,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/blackwater_intro_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_blackwater_lake_post.lua",
+                    "size": 36935,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/zm_blackwater_lake_post.lua"
+                    ]
+                },
+                {
+                    "name": "mod.json",
+                    "size": 219,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_blackwater_lake.gsc",
+                    "size": 197021,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/zm_blackwater_lake.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_blackwater_lake_exfil.gsc",
+                    "size": 13014,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/zm_blackwater_lake_exfil.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_blackwater_lake_mayhem.gsc",
+                    "size": 2208,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/zm_blackwater_lake_mayhem.gsc"
+                    ]
+                }
+            ]
         }
     ]
 }
