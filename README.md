@@ -10,6 +10,3 @@ For a stripped down version of the mod without the menu and saving features -> [
 
 ## Menu Preview
 <img width="1920" height="1080" alt="preview-menu" src="https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/preview-menu.png" />
-
-## Known Issues
-- Inconsistent crashing when loading into Rex Infernus. Needs to be tested on a clean install of Kronos.
