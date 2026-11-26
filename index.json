@@ -136,8 +136,8 @@
             "type": "script",
             "name": "Cursed Reimagined",
             "author": "MeowRaK",
-            "version": "7.0",
-            "description": "Classic-inspired BO7 Zombies overhaul featuring combined Pack-a-Punch and rarity progression, classic armor and melee, enemy health scaling, armor damage scaling, Enhanced Full Power, and Wonder Weapon damage buffs. Supports Cursed, Cursed Survival, and Mister Peeks Mayhem.",
+            "version": "8.1",
+            "description": "Classic-inspired BO7 Zombies overhaul featuring combined Pack-a-Punch and rarity progression, reworked directional armor protection, classic melee, enemy health scaling, armor damage scaling, Enhanced Full Power, and Wonder Weapon damage buffs. Supports Cursed, Cursed Survival, and Mister Peeks Mayhem.",
             "image": "https://raw.githubusercontent.com/MeowRaK/bo7-cursed-reimagined/main/previewmod.png",
             "files": [
                 {
@@ -150,10 +150,10 @@
                 },
                 {
                     "name": "scripts/zm_cursed_reimagined.gsc",
-                    "size": 112898,
-                    "hash": "80b5c8b2c9f9bed61a13ec41c7888757efe90d7bddb2bab6e74bcce8218b29c3",
+                    "size": 124148,
+                    "hash": "1be694da955c5a9d2669779596409a8e66198f1fedee6d933f3b44a3d20b0140",
                     "urls": [
-                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v7.0/zm_cursed_reimagined.gsc"
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v8.1/zm_cursed_reimagined.gsc"
                     ]
                 },
                 {
@@ -191,191 +191,180 @@
             ]
         },
         {
-            "id": "mock_mp_matchmaking",
-            "type": "ui",
-            "name": "Mock Multiplayer Matchmaking",
-            "author": "Maverick",
-            "version": "1.1-beta",
-            "description": "Find a Match and Quick Play start offline matches against bots, with a map vote between matches. Matches keep rolling until you leave the lobby.",
-            "image": "https://github.com/7Maverick7/kronos-mock-mp-matchmaking/releases/download/beta/preview.png",
-            "files": [
-                {
-                    "name": "mod.json",
-                    "size": 100,
-                    "hash": "a3bad395fe2afb9466a55b1b9ebcb8a63cafe31cee6cffcffe143f34cc5b7f3a",
-                    "urls": [
-                        "https://github.com/7Maverick7/kronos-mock-mp-matchmaking/releases/download/1.2-beta/mod.json"
-                    ]
-                },
-                {
-                    "name": "lua/mp_matchmaking_post.lua",
-                    "size": 148061,
-                    "hash": "594a6ee04ec13aa6bc9b816b652e4834fb2da442f98ea3dc9bba5baff5405770",
-                    "urls": [
-                        "https://github.com/7Maverick7/kronos-mock-mp-matchmaking/releases/download/1.2-beta/mp_matchmaking_post.lua"
-                    ]
-                }
-            ]
-        },
-        {
             "id": "forge_tool",
             "type": "script",
             "name": "BO7 - World Builder",
             "author": "ZMRev",
-            "version": "1.70 / s1.22",
+            "version": "1.70.1 / s1.22",
             "description": "Build your own version of any map. Press F8 to spawn props, machines and zombies, move or delete what's already there, change the sky, and save your layout to load again later.",
-            "image": "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/forge_tool_preview.png",
+            "image": "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/forge_tool_preview.png",
             "files": [
                 {
                     "name": "mod.json",
-                    "size": 91,
-                    "hash": "",
+                    "size": 93,
+                    "hash": "21bd35412868ac0755db6ac6faf97af5eefe54a621e7b687eae7f062e7a8353b",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/mod.json"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/mod.json"
                     ]
                 },
                 {
                     "name": "scripts/modtools.gsc",
-                    "size": 278580,
-                    "hash": "",
+                    "size": 348974,
+                    "hash": "974854e8517bf70b8e017b707c546da37b6fe62344d55d02f3888701d4a4ce67",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_mp.gsc",
                     "size": 88025,
-                    "hash": "",
+                    "hash": "64f1a912be37c217e6e1c7527fbcb74dd5d502b66367994594dde62d5703eaea",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_mp.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_mp.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_ob.gsc",
                     "size": 28098,
-                    "hash": "",
+                    "hash": "c14588dea6dec2cf9e7a8eb9913e21147a805f55fde79705b1463bc9dd6301b9",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_ob.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_ob.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm.gsc",
-                    "size": 388390,
-                    "hash": "",
+                    "size": 475583,
+                    "hash": "fa526f84bc1c88cfc36af3cd151d56f881644df5dd0d5354af0b7feadc7ad293",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_anvil.gsc",
                     "size": 9153,
-                    "hash": "",
+                    "hash": "1051e8b3ba4b84c8bcec966b243c7a9a3c7a74d6a885431edd5bd3563d47502e",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_anvil.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_anvil.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_bgb.gsc",
-                    "size": 192,
-                    "hash": "",
+                    "size": 453,
+                    "hash": "8a7bab06346be5c087d01b471c6d59e1c19c11d31643ab19613cdbe77df96028",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_bgb.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_bgb.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_exfil.gsc",
                     "size": 6971,
-                    "hash": "",
+                    "hash": "9687ab193ce86e70c9878c754981d3237c127e1ce9f1f21c92d2a6dea801d456",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_exfil.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_exfil.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_hornet.gsc",
                     "size": 764,
-                    "hash": "",
+                    "hash": "9d9a850c417605af8d824b789d66bd33fde4b12e11f9d0a5f7ab2e84c511bba8",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_hornet.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_hornet.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_zm_quote.gsc",
+                    "size": 13766,
+                    "hash": "765a1bcc3532cd3d81485fc0bb998d2dfbcb444aebfadd9bbd6baea190e76b07",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_quote.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_rampage.gsc",
                     "size": 2582,
-                    "hash": "",
+                    "hash": "89f1485c9af86270c617938c2d31b5052e4b3903994bdc33f79ec58fdd29ab57",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_rampage.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_rampage.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_reward.gsc",
-                    "size": 36330,
-                    "hash": "",
+                    "size": 37388,
+                    "hash": "6bc6d4d8d654796763c185b66d9a21558275bfcea3dd1d28d60d831216772eca",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_reward.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_reward.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_zm_task.gsc",
+                    "size": 10862,
+                    "hash": "6a75087de828bc3f9791f02446a99f7eb81c55c9b50356e142152092e209745f",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_task.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_tedd.gsc",
-                    "size": 403,
-                    "hash": "",
+                    "size": 18019,
+                    "hash": "713dd8fbacaac49b527b203971e74fc81dc8131d9cc762666501c15da82712a4",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_tedd.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_tedd.gsc"
                     ]
                 },
                 {
                     "name": "scripts/modtools_zm_tt.gsc",
                     "size": 576,
-                    "hash": "",
+                    "hash": "a144c768ef9a39fb323fa64518086d6ee4f5b0db6c7d857079506f0925f4a14f",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/modtools_zm_tt.gsc"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/modtools_zm_tt.gsc"
                     ]
                 },
                 {
                     "name": "lua/zm_builder_models_post.lua",
                     "size": 1524284,
-                    "hash": "",
+                    "hash": "b7503619b95cca591abe40e92d13004f2f6c467f96c0c52c17c6aed2d04f3256",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/zm_builder_models_post.lua"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/zm_builder_models_post.lua"
                     ]
                 },
                 {
                     "name": "lua/zm_builder_post.lua",
-                    "size": 568409,
-                    "hash": "",
+                    "size": 598861,
+                    "hash": "033efa4ecb1e387e44d8c7c9a1cc788f8eeb05818f5826a4f4038d0d7fac6d43",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/zm_builder_post.lua"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/zm_builder_post.lua"
                     ]
                 },
                 {
                     "name": "images/wb_rc_bl.png",
                     "size": 981,
-                    "hash": "",
+                    "hash": "17362f4732897a9705b7f863c6655b07ecf90bff5d0fe2c0753a8be51299b8ac",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/wb_rc_bl.png"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/wb_rc_bl.png"
                     ]
                 },
                 {
                     "name": "images/wb_rc_br.png",
                     "size": 925,
-                    "hash": "",
+                    "hash": "ba7907abf18aea2bc1fe9cb4cd9ffd27c05cfa12fd8d83cd4c64955c88a4c2e9",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/wb_rc_br.png"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/wb_rc_br.png"
                     ]
                 },
                 {
                     "name": "images/wb_rc_tl.png",
                     "size": 972,
-                    "hash": "",
+                    "hash": "c7722618f23c61b1e2567055c5dc9d6fea0dfc0a277b09a913be060c9d5387fe",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/wb_rc_tl.png"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/wb_rc_tl.png"
                     ]
                 },
                 {
                     "name": "images/wb_rc_tr.png",
                     "size": 968,
-                    "hash": "",
+                    "hash": "c299e4c772406e3f75c8d4dfe4927158816560ed738138a3d1db43bda7920932",
                     "urls": [
-                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70-s1.22/wb_rc_tr.png"
+                        "https://github.com/ESFang/BO7-World-Builder/releases/download/v1.70.1-s1.22/wb_rc_tr.png"
                     ]
                 }
             ]
@@ -1384,97 +1373,6 @@
             ]
         },
         {
-            "id": "fuzspeedrun",
-            "type": "script",
-            "name": "FuzSpeedrun",
-            "author": "Fuzion28",
-            "version": "1.2",
-            "description": "Speedrun timer for BO7 Zombies: automatic splits on all 6 maps, PB and best segment tracking, LiveSplit-style panel and autosplitter. Pause menu(ESC) : timer mode, EE or PaP mode, start speedrun. F8 fast restart.",
-            "image": "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/preview.png",
-            "files": [
-                {
-                    "name": "mod.json",
-                    "size": 83,
-                    "hash": "148796b26025d18a0873a3f428ff4988971dcf7c48f375db7a1a85edab456ec1",
-                    "urls": [
-                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/mod.json"
-                    ]
-                },
-                {
-                    "name": "scripts/zm_speedrun.gsc",
-                    "size": 37961,
-                    "hash": "64b3770bbcc6e7257901f2b87afa4d8a09df8ef6bcdaa1a63e6dc300b272c365",
-                    "urls": [
-                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_speedrun.gsc"
-                    ]
-                },
-                {
-                    "name": "lua/zm_mod_menu_post.lua",
-                    "size": 24225,
-                    "hash": "7a4bf52b4562d13c5675e59a156311f4b48aae6c0b0360c301a175c6b26f8e99",
-                    "urls": [
-                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_mod_menu_post.lua"
-                    ]
-                },
-                {
-                    "name": "lua/zm_split_zm_sat_firefly_post.lua",
-                    "size": 691,
-                    "hash": "fee6e8f5c1d4873795c684228eca137c649c2b4d6a1cd1e273de9a4333185a11",
-                    "urls": [
-                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_split_zm_sat_firefly_post.lua"
-                    ]
-                },
-                {
-                    "name": "lua/zm_split_zm_sat_hornet_post.lua",
-                    "size": 537,
-                    "hash": "c1c7003994c571a372a49364bc147a2fdeaa3974ce189bde41b70fe6d76ad764",
-                    "urls": [
-                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_split_zm_sat_hornet_post.lua"
-                    ]
-                },
-                {
-                    "name": "lua/zm_split_zm_sat_locust_post.lua",
-                    "size": 821,
-                    "hash": "2a5e94c9fef7254f3b951332c836152e1dc813d2d105369f26a96c2861bbbe1c",
-                    "urls": [
-                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_split_zm_sat_locust_post.lua"
-                    ]
-                },
-                {
-                    "name": "lua/zm_split_zm_sat_mantis_post.lua",
-                    "size": 553,
-                    "hash": "3fcadb332855168d31bc1ff7c21dfcdfc1ddb5981e4c4fe6d3a5f93fe9580434",
-                    "urls": [
-                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_split_zm_sat_mantis_post.lua"
-                    ]
-                },
-                {
-                    "name": "lua/zm_split_zm_sat_ruby_post.lua",
-                    "size": 679,
-                    "hash": "e3589b90031763296a8e0274c1841fadf44cb95b875c18106fe2d2f48cbb7be0",
-                    "urls": [
-                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_split_zm_sat_ruby_post.lua"
-                    ]
-                },
-                {
-                    "name": "lua/zm_split_zm_sat_scarab_post.lua",
-                    "size": 545,
-                    "hash": "9a2cf5f3591f2ded9afb4933c9227fc002f691f7266aceded8581a0a1226066d",
-                    "urls": [
-                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_split_zm_sat_scarab_post.lua"
-                    ]
-                },
-                {
-                    "name": "lua/zm_splitter_post.lua",
-                    "size": 26855,
-                    "hash": "9d4ac56586800abb4565302d7674ac17f5945206819f33f336bca03d327a1b53",
-                    "urls": [
-                        "https://github.com/Fuzion28/fuzspeedrun/releases/download/v1.2/zm_splitter_post.lua"
-                    ]
-                }
-            ]
-        },
-        {
             "id": "first_box_bo3_mark2",
             "type": "script",
             "name": "First Box Patch All Maps & BO3 Raygun Mark II Damage",
@@ -1567,7 +1465,7 @@
             "type": "script",
             "name": "Cursed Reimagined - BO3 Health Compatible",
             "author": "MeowRaK",
-            "version": "7.0",
+            "version": "8.0",
             "description": "BO3 Health-compatible Cursed Reimagined featuring classic weapon progression, enemy health scaling, Enhanced Full Power, and Wonder Weapon damage buffs. Preserves BO3 Health player health and damage mechanics; requires the standalone BO3 Health mod.",
             "image": "https://raw.githubusercontent.com/MeowRaK/bo7-cursed-reimagined-bo3-health/main/preview.png",
             "files": [
@@ -1581,10 +1479,10 @@
                 },
                 {
                     "name": "scripts/zm_cursed_reimagined_bo3c.gsc",
-                    "size": 112784,
-                    "hash": "9a1514c8ffdb1fb02d88780eb5aaec531a07755cd81efc5ab81a9a3b846d1630",
+                    "size": 111677,
+                    "hash": "b00e45083f8dec22b525fc425486ccc836a6c9857ddb4cc6fd0ebc2abf371094",
                     "urls": [
-                        "https://github.com/MeowRaK/bo7-cursed-reimagined-bo3-health/releases/download/v7.0/zm_cursed_reimagined_bo3c.gsc"
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined-bo3-health/releases/download/v8.0/zm_cursed_reimagined_bo3c.gsc"
                     ]
                 },
                 {
@@ -3094,6 +2992,990 @@
                     "hash": "470ef0c19df43172e6729cb958aafbf6a9a1121da2a2a7a22f5dfbcddcd6c176",
                     "urls": [
                         "https://github.com/Liam-McCormack-Github/bo7_recrudescence/releases/download/v1.0.2/recrud_weapons_post.lua"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "boss_battle",
+            "type": "script",
+            "name": "Boss Battle",
+            "author": "Tinhorn",
+            "version": "1.0",
+            "description": "Infinite Warfare style boss battles on every map. Pick the Boss Battle tile (it replaces Directed), gear up with max money and every machine, then take the yellow (round 40) or red (round 100) portal to fight the boss against the clock.",
+            "image": "https://github.com/The-Tinhorn/bo7-boss-battle/releases/download/boss_battle-v1.0/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 485,
+                    "hash": "5e5508546a7821cd258814088fe87fcb4cf7b5d229b5d87f7514833dfc6040a8",
+                    "urls": [
+                        "https://github.com/The-Tinhorn/bo7-boss-battle/releases/download/boss_battle-v1.0/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/boss_battle.gsc",
+                    "size": 85898,
+                    "hash": "27ae87b739763929563e61a19262bdf2dc9562acc891cb65f4c2d848e1df7f80",
+                    "urls": [
+                        "https://github.com/The-Tinhorn/bo7-boss-battle/releases/download/boss_battle-v1.0/boss_battle.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/boss_battle_post.lua",
+                    "size": 11140,
+                    "hash": "1292668077ab3e96d05c7560611b34e3eede5f6e2ba822255d976eb089888fb0",
+                    "urls": [
+                        "https://github.com/The-Tinhorn/bo7-boss-battle/releases/download/boss_battle-v1.0/boss_battle_post.lua"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "gunsmith_appearance_tab",
+            "type": "ui",
+            "name": "Gunsmith Appearance Tab",
+            "author": "nanusl",
+            "version": "1.0",
+            "description": "Shows the Appearance tab in Gunsmith customization. Offline, that tab is hidden because the blueprint appearance check is off. This forces the tab to stay visible and turns that check on. Camo, reticle, charm, decal, and sticker tabs are left unchanged.",
+            "image": "https://github.com/nanusl/BO7-Gunsmith-Appearance-Tab/releases/download/v1/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 88,
+                    "hash": "908d03d75ca9b299e6dfaf4efac4a781b781ff9a1dd920025c9a28da6a9e94b7",
+                    "urls": [
+                        "https://github.com/nanusl/BO7-Gunsmith-Appearance-Tab/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "lua/gunsmith_skins_post.lua",
+                    "size": 3401,
+                    "hash": "a1ab4933589e1010db3a2935b2cdbe31bd8b9948f01623253d157969e9bd3030",
+                    "urls": [
+                        "https://github.com/nanusl/BO7-Gunsmith-Appearance-Tab/releases/download/v1/gunsmith_skins_post.lua"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "endgame_offline_overhaul",
+            "type": "script",
+            "name": "Endgame Offline Overhaul",
+            "author": "Kingmemarley",
+            "version": "1",
+            "description": "Play Endgame offline: saved progress and Operations, Nightmare missions, ally bots that match your Combat Rating, and a boss difficulty choice (Easy, Normal, Hard, Authentic).",
+            "image": "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 365,
+                    "hash": "8965eef36f56325eeb370bfad59bac3737d5bf91bc88be41907428d884e92f38",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_allies.gsc",
+                    "size": 186020,
+                    "hash": "b859c55ab5485b1d66e80ed39497a198651ced8198a58717de197ed797073200",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_allies.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_bosses.gsc",
+                    "size": 21882,
+                    "hash": "7f65182838400b552b4f039b20373165b9bca45089d97c1489c9359ef1eacaaf",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_bosses.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_colossus.gsc",
+                    "size": 19867,
+                    "hash": "84ee4f5c6f29b93f4f88073e0b0e0019548d0569085235c091488612f9bd1149",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_colossus.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_enable.gsc",
+                    "size": 3954,
+                    "hash": "5a965ea7cbff68d0bd7df2fe2344a6664ee6daafdf890fdd6deb066aaf083471",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_enable.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_falkner.gsc",
+                    "size": 15322,
+                    "hash": "1544c9f230c4c81482bb73851bd9d63bf62563162206e3e4b2406dc626bff7b8",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_falkner.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_gunmeta.gsc",
+                    "size": 12490,
+                    "hash": "1c5a11599147fb3f78f98f301e538e95610b32aa2dfeb814e67155b272614035",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_gunmeta.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_nightmare.gsc",
+                    "size": 40896,
+                    "hash": "ddd09aa23d21caf4ccf87f805619835be96a545e9363ac313d4b4570212bf212",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_nightmare.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_offline.gsc",
+                    "size": 143396,
+                    "hash": "481e740493054191cf4c8ac7e2f146162742ad01e2fa71b2db8874fb91a4232f",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_offline.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_skills.gsc",
+                    "size": 10668,
+                    "hash": "3ca6653f3183a9f35bc98efc0199e183651d85ea6b9f7950c83cdb1a8396262f",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_skills.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/eoo_strike.gsc",
+                    "size": 23313,
+                    "hash": "6bfb660fb34b12abea27c5ff4c272e340f09cf1daa32c20baeb3166521fd9256",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_strike.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_a_lui_memory_post.lua",
+                    "size": 2976,
+                    "hash": "b35676c431e82edf55d02deb3b6bc189a47cec2923d43da8c73a336181df1b74",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_a_lui_memory_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_b_leave_post.lua",
+                    "size": 7696,
+                    "hash": "3c1b52515bf09ce6d8769e37a47d4f7f1a4ce6a6e98f0c6e1ca03d14898dcca2",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_b_leave_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_c_ops_progress_post.lua",
+                    "size": 13961,
+                    "hash": "9e901436045b6aac81c716d97429a375e8df807dd65a87841a6f97206071d07b",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_c_ops_progress_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_d_ops_save_post.lua",
+                    "size": 16323,
+                    "hash": "9941ff06129b5fd3d8136a4eb131e0c269e12ad6a4ec8e7a56d28476f97e4fa2",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_d_ops_save_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_e_nightmare_post.lua",
+                    "size": 12683,
+                    "hash": "f0bcd8c396383eaefe836e1d67e1f49da6848e4af20001846b9e855efa078531",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_e_nightmare_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_f_inventory_post.lua",
+                    "size": 91228,
+                    "hash": "8978013d5b7187bdd98132a42fbe777357d47df89988c5bc25579932fcaa831e",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_f_inventory_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_g_endgame_post.lua",
+                    "size": 74502,
+                    "hash": "119865f4b9b1356559ecb4f4cb2276190c05263c536dae77842a4e6ac2b17d86",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_g_endgame_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_h_cac_passthrough_post.lua",
+                    "size": 8127,
+                    "hash": "2823429f784a4afcbc2c39d727f9b1510c7061845168864ad467ad73a6500751",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_h_cac_passthrough_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_y_debug_post.lua",
+                    "size": 2595,
+                    "hash": "32c0025fa31e3d20420e09cd5d5903b2cf666444059d56021de64d6f0536daff",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_y_debug_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/eoo_z_gc_post.lua",
+                    "size": 3687,
+                    "hash": "a2590c975fc72723a21b64ebdb6cffe75c7a8c7aed46292bec47fbba5ccd1e95",
+                    "urls": [
+                        "https://github.com/Kingmemarley/endgame-offline-overhaul/releases/download/v1/eoo_z_gc_post.lua"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "blood_vials",
+            "type": "ui",
+            "name": "Blood Vials",
+            "author": "Omar",
+            "version": "1.50",
+            "description": "Earn Blood Vials in Zombies and open crates for seasonal guns, blueprints, augments, relics and wonder weapon skins. Gear, attachments and camos unlock by level and challenges.",
+            "image": "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_body.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 333,
+                    "hash": "bec438619b4c03209fdb0261c10e1554185b266d56db94b1bdecbf7500de6b07",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mod.json"
+                    ]
+                },
+                {
+                    "name": "lua/blood_vials_chal_post.lua",
+                    "size": 215733,
+                    "hash": "493dc761f0955c057609f52428adfe54c44f2e353d4ee1212b955ce42fd9b764",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/blood_vials_chal_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/blood_vials_data_post.lua",
+                    "size": 177340,
+                    "hash": "39c53b5580cda408c837b5b81f48653ddec0e1f41ccbb917718286915cfe3a22",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/blood_vials_data_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/blood_vials_post.lua",
+                    "size": 177629,
+                    "hash": "7b25ef433dfbf221bee3d9f1f8737bdc410f3bf9fe3c6e40b731e57feb0b4580",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/blood_vials_post.lua"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_blood_vials.gsc",
+                    "size": 16121,
+                    "hash": "95f5698e5574f9a88ed74267c9a2682d15dde64d0d3f45a4df1513c669d0c8ae",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/zm_blood_vials.gsc"
+                    ]
+                },
+                {
+                    "name": "images/abox_beam.png",
+                    "size": 179907,
+                    "hash": "abe0b9dea90393d4299ebdf19c1e0c9d073f029505bce4a8578b57ef31a3c888",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_beam.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_glow.png",
+                    "size": 368143,
+                    "hash": "ae83a76a021d9ea08581cfbd7eda4918791c1df3f69c365a10260b8174e1a63b",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_glow.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_00.png",
+                    "size": 580965,
+                    "hash": "3bde7047e312adb251059858786a468d49f2a74d7d95daf1c342258bca3056f4",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_00.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_01.png",
+                    "size": 580719,
+                    "hash": "4ad977e8fefe24ff4ab9d636201e1a8c3ec5d030a8c658371246794a72dc9bc3",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_01.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_02.png",
+                    "size": 578906,
+                    "hash": "47e6052727bd73559692d52cc228276c048ca6f987d3b3b2b02d855b246c0054",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_02.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_03.png",
+                    "size": 585687,
+                    "hash": "c12beba768322a71ff09283235ffbfbbd5f6e52d8eb7009533276fe364d7594e",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_03.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_04.png",
+                    "size": 598123,
+                    "hash": "78a3c99ef5d1c3e742e531f8451bccf927bb0612513b2572afee4e82094be528",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_04.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_05.png",
+                    "size": 612323,
+                    "hash": "7935cd46fcd9d5488b88ce8e2f2fab01b1e13647a1a7b049c9ff4989ca5137f3",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_05.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_06.png",
+                    "size": 613559,
+                    "hash": "30a43c2fb6fb8e2217893d03c9eadc8c7fffc45257164fca795023f138292f50",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_06.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_07.png",
+                    "size": 629612,
+                    "hash": "38c672eb61101220fba9c23da6fe072a456a6aa97fb5f55fb32cf98f4cf5de20",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_07.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_08.png",
+                    "size": 689560,
+                    "hash": "541e6b47e71d77d41e6e102ac92a9586efbf478779c2b9300712b065a5de252f",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_08.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_09.png",
+                    "size": 719406,
+                    "hash": "f243d340e1cc88894e42df111f3403b1d9939ed4489dff533a18c694f6d30349",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_09.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_10.png",
+                    "size": 709884,
+                    "hash": "6ff42e867152607ed86ebe25fa21a3fc5b2ca346fc126e3a05d696c130cdba57",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_10.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_11.png",
+                    "size": 712960,
+                    "hash": "0dd477dc24cb8db7080dec167fb510e5bdac004ebb7e4feb707534af06015e3c",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_11.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_lid_12.png",
+                    "size": 711453,
+                    "hash": "20031ea571ab5bf557b4f79640560a4a466b77d06cce40fb1d9867c1cf6eccfc",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_lid_12.png"
+                    ]
+                },
+                {
+                    "name": "images/abox_shadow.png",
+                    "size": 203667,
+                    "hash": "0119da2371cfcbb0ad9d7f5c4a6ab6f2385c26d197233bce57713190d534ae5f",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/abox_shadow.png"
+                    ]
+                },
+                {
+                    "name": "images/bv_vial.png",
+                    "size": 29715,
+                    "hash": "a7f37812f94ce936ce54619cfb5248b8d53f547416b30c3dec78f63a94b10fe9",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/bv_vial.png"
+                    ]
+                },
+                {
+                    "name": "images/bv_vial_apothicon.png",
+                    "size": 55672,
+                    "hash": "fc628d97ef7142b75159407d7c30f3b52c4226851f67780fe3dafe1753db49e1",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/bv_vial_apothicon.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_beam.png",
+                    "size": 33681,
+                    "hash": "5769d20ca75bad8c0ec3abd02e443abb91d9c84758d33e46665b5111718d5e7a",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_beam.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_bg_ellipse.png",
+                    "size": 4048,
+                    "hash": "0183489f0c67e7c7e0fb5165619598b5ba0e0ed672bb843a31de71adb3465d16",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_bg_ellipse.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_bg_ember.png",
+                    "size": 2633,
+                    "hash": "2dac565db6c299d4caa6827e362c3e13bd8b2957b29a52ef8a5501445617e45b",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_bg_ember.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_bg_forest.png",
+                    "size": 1507240,
+                    "hash": "333bec62317cbbf5b99a0f86b24cb8b42d3d5385d498aecc309861f183b6c07a",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_bg_forest.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_bg_glow.png",
+                    "size": 3708,
+                    "hash": "fb9e7de0807a56e3ba25eb8470e0c86b8bd50150e24c5101ebcacfb7aa3fbe62",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_bg_glow.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_bg_smoke.png",
+                    "size": 93663,
+                    "hash": "c433093d74acea5bcc22da385ddbf45c47a442c2290fc67fb9e0c16f88b2cab1",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_bg_smoke.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_bg_wisp.png",
+                    "size": 59702,
+                    "hash": "14910fa23ddc31a08059b714f65bac8085ecda3897cdcc3cd8a38c523b170765",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_bg_wisp.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_body.png",
+                    "size": 402546,
+                    "hash": "a69f31e8c4d6a5a858b18c4327bdeeaff00fafac912bf67adc12c1907af99b63",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_body.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_dot.png",
+                    "size": 1435,
+                    "hash": "2b553e9089f33465c4b8539bef85291148148fea9bc35606303ad7b10299d0ee",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_dot.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_glow.png",
+                    "size": 35151,
+                    "hash": "d1dd80fbb731f2991107e9931833a77201906280588b2da7f605c4bb9f739e7d",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_glow.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_lid.png",
+                    "size": 236739,
+                    "hash": "9f3f47a3f48c8a773924ff1680ef02a95d95efd2714076a562fe876634547ae2",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_lid.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_qbloom.png",
+                    "size": 9444,
+                    "hash": "2b68b35f1333c0ad5ba3ac00e5f35228e9b6c1782582134a5f2881caa812c445",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_qbloom.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_qface.png",
+                    "size": 7796,
+                    "hash": "77f668804eb27ef48cbf8913951e76106349e10ca8e99ca75749b13365634089",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_qface.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_ray.png",
+                    "size": 44927,
+                    "hash": "2624baec0f119d438b60cf6d922d28efa074b0894df5a0ffecef67a297faf518",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_ray.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_shadow.png",
+                    "size": 7869,
+                    "hash": "e2031b3eaad699b7bd93adeb9b5312bb269ef0881cccf48f70e5b4bcccf885f3",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_shadow.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_vig_b.png",
+                    "size": 128,
+                    "hash": "3576e5cd3ccaf8418e9ce3042360060547cbd24cba2d76816972846265fb7f10",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_vig_b.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_vig_l.png",
+                    "size": 129,
+                    "hash": "bb32ccb72486a8de89ec5b5551906c881fd1723d433845839aad29214b3b81e8",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_vig_l.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_vig_r.png",
+                    "size": 124,
+                    "hash": "d090f7121eb1dbd5fbb9e3abf282050251781a8f352abc6594b780ab04d849e4",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_vig_r.png"
+                    ]
+                },
+                {
+                    "name": "images/mbox_vig_t.png",
+                    "size": 138,
+                    "hash": "44e9daa9c01b130ce4df4ce587f8488c31396dd0ee711f50e8826a948ee64721",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/mbox_vig_t.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_beam.png",
+                    "size": 185321,
+                    "hash": "b5cf97b5cda25685a8175a98065f17d63643822782415a8f3f0362c3936d41e2",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_beam.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_glow.png",
+                    "size": 351973,
+                    "hash": "a48a5e98d676bac77482b293aca9a4323406f2531257701bed4c06b8828826e0",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_glow.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_00.png",
+                    "size": 377939,
+                    "hash": "8527f2cf4c7c6731dfa8e278f04d2a6931e22ce6c6064696dda1ef7a730a3836",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_00.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_01.png",
+                    "size": 380292,
+                    "hash": "d3470bd741de0d13649936baca39bcfee0339da432aa3410dd7b41c9f818094f",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_01.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_02.png",
+                    "size": 378069,
+                    "hash": "dd7e396bff30b8f7db0e59fc1fbe0cb494c8bbbb934fe62f2e15178a5450dfb7",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_02.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_03.png",
+                    "size": 382639,
+                    "hash": "80409e2c0411ee4a5d91ba911dbb2b458bc6ff912504631fbadf810afc3d84c9",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_03.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_04.png",
+                    "size": 382373,
+                    "hash": "e0623b9b83f52b1da3ca20f90d3fc9e3ecff523403d1195f7fd14d86ef6059ec",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_04.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_05.png",
+                    "size": 379996,
+                    "hash": "fdf968b8ec62149b08ec7adb1038b1a8cfe3fa170cc0d2bf06fd5ac22a6d96d2",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_05.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_06.png",
+                    "size": 377183,
+                    "hash": "bb7fd79431d7aa5681f8a96cc368a9a93dbee40c55742e9ee0d7ce80e12d4e95",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_06.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_07.png",
+                    "size": 397124,
+                    "hash": "d5af1a417093172928bf2d116fde6d1f6157433cf82d82c1724b9856aed816de",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_07.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_08.png",
+                    "size": 471750,
+                    "hash": "78fa3654a32657a2212b9257075a4c69b0a3d766340af3b77e64f0c3e5535fbd",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_08.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_09.png",
+                    "size": 470023,
+                    "hash": "97d94fd138b883849acbe75c6801ffe4106311b50669518aa218af88b0f2068a",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_09.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_10.png",
+                    "size": 469420,
+                    "hash": "dce5a9f0dafc6fbd67280c39587f34eac00d1760293128bf740a33dc5b3e867b",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_10.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_11.png",
+                    "size": 471317,
+                    "hash": "f645e876035a0cba660498a0e65c65974a6602555ba30d115f4f8a031cd16247",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_11.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_lid_12.png",
+                    "size": 471282,
+                    "hash": "25a76675ce9a7ee3fe8ea621dd137b299896cf135882a8b6f5ad7681f469b795",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_lid_12.png"
+                    ]
+                },
+                {
+                    "name": "images/rbox_shadow.png",
+                    "size": 200619,
+                    "hash": "36fc2d1f7602d14a69e5afb9f94b03b32ffa0b5f2295ffb13d2735c118e403ba",
+                    "urls": [
+                        "https://github.com/Veptomsfriend/Blood-Vial-Progression/releases/download/1.5/rbox_shadow.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "extended_fov",
+            "type": "ui",
+            "name": "Extended FOV",
+            "author": "Krimsinx",
+            "version": "1",
+            "description": "BO7 Zombies Extended FOV Mod for Kronos Launcher. Extended View Model FOV & FOV Scale like BO3 Zombies. Features an option in the pause menu to change the settings. Settings persist across restarts.",
+            "image": "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 82,
+                    "hash": "d3a67d4c1b53fbbeee45c89a15c9a2ca4e6abf7110290395b6f098f65a2e442b",
+                    "urls": [
+                        "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/extended_fov_store.gsc",
+                    "size": 1104,
+                    "hash": "c0ef3f7f579433d5905bc266725e7848bc3acb87f539fff4eb869edc69c8cb85",
+                    "urls": [
+                        "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/extended_fov_store.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/extended_fov_post.lua",
+                    "size": 24559,
+                    "hash": "401f8b8718b14b91aa38a85cbde0f7201c98f8f20a3c8d3c73f606adc973ba8a",
+                    "urls": [
+                        "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/extended_fov_post.lua"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "owner_zrex_poc",
+            "type": "script",
+            "name": "ALLY -FieldUpgrade",
+            "author": "j6sistek-ui",
+            "version": "0.3.4-poc",
+            "description": "Replace Dark Flare with Uber Klaus fighting on your side for up to four minutes. First pass tested on Ashes of the Damned; other maps still need testing.",
+            "image": "https://github.com/j6sistek-ui/ZRex/releases/download/v0.3.4-poc/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 292,
+                    "hash": "e9d741da5cfbe7024bd562641b7660dda2992143075445f3dca31717f18c9fec",
+                    "urls": [
+                        "https://github.com/j6sistek-ui/ZRex/releases/download/v0.3.4-poc/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_owner_zrex_poc.gsc",
+                    "size": 66414,
+                    "hash": "7bac6a053320cf83f7e0c97427b1ae5610698249a8ea3dc79a5141e05182d99f",
+                    "urls": [
+                        "https://github.com/j6sistek-ui/ZRex/releases/download/v0.3.4-poc/zm_owner_zrex_poc.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/owner_zrex_receiver.gsc",
+                    "size": 7011,
+                    "hash": "1c9e44a75bfd52e49cee9478c5f623e8e2f415933fc855675ea3666f07c6c229",
+                    "urls": [
+                        "https://github.com/j6sistek-ui/ZRex/releases/download/v0.3.4-poc/owner_zrex_receiver.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/owner_zrex_menu_post.lua",
+                    "size": 11957,
+                    "hash": "dbad1b01eba9dab159a9865c43431b90c48708d22ed3ea2191958264a20e2438",
+                    "urls": [
+                        "https://github.com/j6sistek-ui/ZRex/releases/download/v0.3.4-poc/owner_zrex_menu_post.lua"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "rex_arena",
+            "type": "script",
+            "name": "Veytharion's Gauntlet",
+            "author": "DellxCell",
+            "version": "1.2.1",
+            "description": "Survival-style arena in Rex Infernus' copy of the Ashes boss arena. Appears in Zombies > Survival.",
+            "image": "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/preview.jpg",
+            "files": [
+                {
+                    "name": "images/rex_arena_intro_1.png",
+                    "size": 5289624,
+                    "hash": "c5125fae2d254f7ff99bc95c02770af872293b22e9e7c6b32b51fd30246a639f",
+                    "urls": [
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/rex_arena_intro_1.png"
+                    ]
+                },
+                {
+                    "name": "images/rex_arena_intro_2.png",
+                    "size": 6058272,
+                    "hash": "5751ee1b87fe21ecbcf3db13cdb7c7eceb83cca36cb418d7bcfa21f4ef3a182e",
+                    "urls": [
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/rex_arena_intro_2.png"
+                    ]
+                },
+                {
+                    "name": "images/rex_arena_intro_3.png",
+                    "size": 5069467,
+                    "hash": "294ba3a5b16cc7891324d9adb4631c1d8e0a76202fc32053ff2c8cf2c33dbf31",
+                    "urls": [
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/rex_arena_intro_3.png"
+                    ]
+                },
+                {
+                    "name": "images/rex_arena_intro_4.png",
+                    "size": 5265861,
+                    "hash": "a883cd883bb2b7f40defa2ffdeda84a3e9bbc30b3937d9e38ac1c6621cedb748",
+                    "urls": [
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/rex_arena_intro_4.png"
+                    ]
+                },
+                {
+                    "name": "images/rex_arena_void_talon.png",
+                    "size": 13169,
+                    "hash": "a416ad7e816e56489a873ce59991cf457cedcb976dee24b3a318d607133d7bc4",
+                    "urls": [
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/rex_arena_void_talon.png"
+                    ]
+                },
+                {
+                    "name": "lua/zm_rex_arena_post.lua",
+                    "size": 152469,
+                    "hash": "f202a79f0b7317daf638da5c6d6b14e342451cfcbe5629222095240b31b5207b",
+                    "urls": [
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/zm_rex_arena_post.lua"
+                    ]
+                },
+                {
+                    "name": "mod.json",
+                    "size": 218,
+                    "hash": "f6548d31951957eab4a965f3c2d6ec68c6ba81304c06c7e60ae5409da28689ee",
+                    "urls": [
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_rex_arena.gsc",
+                    "size": 512269,
+                    "hash": "5dbcf015f341dc9ff10193a405d848985dc54ddaa01a702f944cff1c8dd50adc",
+                    "urls": [
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/zm_rex_arena.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_rex_arena_tyr.gsc",
+                    "size": 1293,
+                    "hash": "7811dfac7c7d488ff14864d7d7f77ba4bfa7a071c2bbd3cc80608a9025107cf1",
+                    "urls": [
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/zm_rex_arena_tyr.gsc"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "blackwater_lake",
+            "type": "script",
+            "name": "Blackwater Lake",
+            "author": "DellxCell",
+            "version": "1.0",
+            "description": "Survival at the lake, cabin and cliffs of Ashes of the Damned. Appears in Zombies > Survival and Cursed Survival.",
+            "image": "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/preview.jpg",
+            "files": [
+                {
+                    "name": "images/blackwater_intro_01.png",
+                    "size": 8601955,
+                    "hash": "0d6873ce1135f4f1712e84c8e7246dbd4c34db9ac1214ce2a4fa53dd48b04ae9",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/blackwater_intro_01.png"
+                    ]
+                },
+                {
+                    "name": "images/blackwater_intro_02.png",
+                    "size": 8754692,
+                    "hash": "2ec874a99599229272b7b43c175fd256bb5a53a21e8e665dd2d1124b7c4d80ae",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/blackwater_intro_02.png"
+                    ]
+                },
+                {
+                    "name": "images/blackwater_intro_03.png",
+                    "size": 8344105,
+                    "hash": "1c35e75769952a20f622c52a35544614899eaae4f0e46b353b983ec87975211f",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/blackwater_intro_03.png"
+                    ]
+                },
+                {
+                    "name": "images/blackwater_intro_04.png",
+                    "size": 8698528,
+                    "hash": "1c6fbe0d5db2fc4c66608909ea355d7745567b292535a95dbc4817577c112cce",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/blackwater_intro_04.png"
+                    ]
+                },
+                {
+                    "name": "images/blackwater_intro_05.png",
+                    "size": 8948055,
+                    "hash": "58a70070f25dcf394c8b7f4163a9b7e4973e2059c885672f84f56b7abedc1e16",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/blackwater_intro_05.png"
+                    ]
+                },
+                {
+                    "name": "images/blackwater_lake_save.png",
+                    "size": 1890717,
+                    "hash": "67800a7533169f2898d780620c2e0ad72edf1371a29c61346d620bf033824cc0",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/blackwater_lake_save.png"
+                    ]
+                },
+                {
+                    "name": "lua/blackwater_intro_post.lua",
+                    "size": 8091,
+                    "hash": "7fa9a4e9e1d2178d1b72348f56616f73b1a48cb7320ea6f85b88e1dd28343882",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/blackwater_intro_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_blackwater_lake_post.lua",
+                    "size": 36935,
+                    "hash": "1863b499b27303b3bc56a254a6874b4254bd0972c51de36a6d461c2a12341b59",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/zm_blackwater_lake_post.lua"
+                    ]
+                },
+                {
+                    "name": "mod.json",
+                    "size": 219,
+                    "hash": "e0c0981b14968b3ad45253d18deb5248beb8168c144fd5c6d59962174c87246c",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_blackwater_lake.gsc",
+                    "size": 197021,
+                    "hash": "a92237617d9d81889ce47a8113fd1297d256876ec0f38e6b558011f4c54a7ab3",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/zm_blackwater_lake.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_blackwater_lake_exfil.gsc",
+                    "size": 13014,
+                    "hash": "6d323d0ec46c6a58363a6eafaf0b430cb13c4d8541af02d6d864c3edb06e5874",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/zm_blackwater_lake_exfil.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_blackwater_lake_mayhem.gsc",
+                    "size": 2208,
+                    "hash": "d2bf57ea6998bd28ea8cf0835669976b33a5158102cf7b09b68ac079592ff1a6",
+                    "urls": [
+                        "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/zm_blackwater_lake_mayhem.gsc"
                     ]
                 }
             ]
