@@ -454,920 +454,1576 @@
             "type": "script",
             "name": "FuzMenu",
             "author": "Fuzion28",
-            "version": "2.6.0",
+            "version": "2.8.8",
             "description": "The all-in-one BO7 Zombies mod menu with a clean custom UI. God mode, teleports, every weapon and Wonder Weapon, Pack-a-Punch, perks, gobblegums, rounds, zombie spawns, game modes, fun and chaos effects, Forge, boss fights, speedrun splits and saved builds. Open with Aim + Melee. Discord: Fuzion28",
             "image": "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/preview.png",
             "files": [
                 {
                     "name": "mod.json",
                     "size": 76,
-                    "hash": "ce5ce72bcaddeaccc7b2313d76168ca010db3d642a5e170d2eac9aa0453a3ff5",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/mod.json"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/mod.json"
                     ]
                 },
                 {
-                    "name": "scripts/zm_mod_menu.gsc",
-                    "size": 243105,
-                    "hash": "fb49ba52684fe4399b1a9188f620832919a55226ecc8d20bbe6251f5bab600fc",
+                    "name": "images/fuzmenu_a_bar.png",
+                    "size": 1279,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_mod_menu.gsc"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_bar.png"
                     ]
                 },
                 {
-                    "name": "scripts/zm_mod_menu_ui.gsc",
-                    "size": 7421,
-                    "hash": "cf4cfaa03961f6ca16bac1a07e15025c616df68089846e8d561b7bda2adb6865",
+                    "name": "images/fuzmenu_a_baredge.png",
+                    "size": 490,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_mod_menu_ui.gsc"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_baredge.png"
                     ]
                 },
                 {
-                    "name": "scripts/zm_mod_menu_arsenal.gsc",
-                    "size": 30031,
-                    "hash": "c6a11dab5ad41df8b3180783b2847c697780b67305b9b832e616f3219c1be5aa",
+                    "name": "images/fuzmenu_a_corner_bl.png",
+                    "size": 268,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_mod_menu_arsenal.gsc"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_corner_bl.png"
                     ]
                 },
                 {
-                    "name": "scripts/zm_mod_menu_fun.gsc",
-                    "size": 57050,
-                    "hash": "61bd744a459192186e6082af60ac301f7c13cecdc9305a4707bdc8f152b709f8",
+                    "name": "images/fuzmenu_a_corner_br.png",
+                    "size": 268,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_mod_menu_fun.gsc"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_corner_br.png"
                     ]
                 },
                 {
-                    "name": "scripts/zm_boss_astra.gsc",
-                    "size": 1475,
-                    "hash": "e699574404fe0fdf613587a33b282460951db4326b80c71ba0f65d231f3532ef",
+                    "name": "images/fuzmenu_a_corner_tl.png",
+                    "size": 263,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_boss_astra.gsc"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_corner_tl.png"
                     ]
                 },
                 {
-                    "name": "lua/zm_mod_menu_post.lua",
-                    "size": 27827,
-                    "hash": "1a4f1fe3b7ae0876ceb7d3e62a9d6970050a6e00611f585b1c1e6fd7049eae27",
+                    "name": "images/fuzmenu_a_corner_tr.png",
+                    "size": 275,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_mod_menu_post.lua"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_corner_tr.png"
                     ]
                 },
                 {
-                    "name": "lua/zm_splitter_post.lua",
-                    "size": 26450,
-                    "hash": "f665958c0d612346990989b33cfde7aeecefdaa918bd8526b9c8cd7fd378e9dd",
+                    "name": "images/fuzmenu_a_dot.png",
+                    "size": 662,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_splitter_post.lua"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_dot.png"
                     ]
                 },
                 {
-                    "name": "lua/zm_split_zm_sat_firefly_post.lua",
-                    "size": 678,
-                    "hash": "e52fd0dbdcf38102e2d3558ba532a376b8ab7b248a6e6a936a37f9b2905d9eed",
+                    "name": "images/fuzmenu_a_edge_b.png",
+                    "size": 1058,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_split_zm_sat_firefly_post.lua"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_edge_b.png"
                     ]
                 },
                 {
-                    "name": "lua/zm_split_zm_sat_hornet_post.lua",
-                    "size": 526,
-                    "hash": "523c64a2fbc19b54cfe6b1547866adb88a087af2b486ca5ff71af825e9dbac5d",
+                    "name": "images/fuzmenu_a_edge_t.png",
+                    "size": 1065,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_split_zm_sat_hornet_post.lua"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_edge_t.png"
                     ]
                 },
                 {
-                    "name": "lua/zm_split_zm_sat_locust_post.lua",
-                    "size": 807,
-                    "hash": "bedecd4c592294dd667c6cd82ac2ead3d99e335ea5e2b9a4b6ad9bb5da59fa41",
+                    "name": "images/fuzmenu_a_glint.png",
+                    "size": 1316,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_split_zm_sat_locust_post.lua"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_glint.png"
                     ]
                 },
                 {
-                    "name": "lua/zm_split_zm_sat_mantis_post.lua",
-                    "size": 542,
-                    "hash": "74bf683c702c1a8bef06fdaa09ad8263327570c8bbf230d94f7b7383371c4072",
+                    "name": "images/fuzmenu_a_halo.png",
+                    "size": 12490,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_split_zm_sat_mantis_post.lua"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_halo.png"
                     ]
                 },
                 {
-                    "name": "lua/zm_split_zm_sat_ruby_post.lua",
-                    "size": 666,
-                    "hash": "d50fcbaee063aca0d83f0be360f93ef8113159af53774257c0537edf05532a4f",
+                    "name": "images/fuzmenu_a_line.png",
+                    "size": 325,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_split_zm_sat_ruby_post.lua"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_line.png"
                     ]
                 },
                 {
-                    "name": "lua/zm_split_zm_sat_scarab_post.lua",
-                    "size": 534,
-                    "hash": "cb4f83899a4d92ed65129488e13aef6ef8ead153a6406dd11130d4b85d8f49b6",
+                    "name": "images/fuzmenu_a_ring.png",
+                    "size": 1320,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/zm_split_zm_sat_scarab_post.lua"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_ring.png"
                     ]
                 },
                 {
-                    "name": "images/fuzmenu_bg.png",
-                    "size": 226490,
-                    "hash": "860da842e19b94446e6f4e136937c7a4139437be4a8eabf4d618551f2af4acad",
+                    "name": "images/fuzmenu_a_scan.png",
+                    "size": 166,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_bg.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_scan.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_a_sweep.png",
+                    "size": 218,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_a_sweep.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_cap_b.png",
                     "size": 824,
-                    "hash": "3af70ace20a4b34f7cefd215909c1aec79ee9fd092fd6c94521f1a20d8b605ce",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_cap_b.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_cap_b.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_cap_t.png",
                     "size": 804,
-                    "hash": "f637d2d58ef02251dceee37623f9655e27cee05da1fa06e51e5afb78ce1a7c12",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_cap_t.png"
-                    ]
-                },
-                {
-                    "name": "images/fuzmenu_header.png",
-                    "size": 32689,
-                    "hash": "bd25ea749008fc681a1ebcb7549294dd2bbe20fda41570adc0ebb4d73ec9c3e8",
-                    "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_header.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_cap_t.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_chevron.png",
                     "size": 941,
-                    "hash": "b645062d9c547feddd55d5a0850f57620d3e01a2e4f3b2f1ed1a357ac6d4fc64",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_chevron.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_chevron.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_close.png",
                     "size": 1280,
-                    "hash": "149cc4603782ea25fb1854a0d729b2232f2359d2f25c26937efca13c34abc114",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_close.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_close.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_damage.png",
                     "size": 3461,
-                    "hash": "c63a6e0bea259916dd72d3e1506a1e3a52963eae471d9c291e845aff1ab0770b",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_damage.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_damage.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_fire.png",
                     "size": 3025,
-                    "hash": "6d4d1825fe0d7ae9bd8adeae944f28f0bad3bcaaec0362b69b89b89d621dae07",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_fire.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_fire.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_forge.png",
                     "size": 2296,
-                    "hash": "1a4a8fe2bb09139a3ca66be1e8729518d87d9617325a4e5dc47e309857689bfe",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_forge.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_forge.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_gums.png",
                     "size": 2963,
-                    "hash": "0681738e510a9f21846c0c40aab1367957c09082c3cb461ec0c76a0737526126",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_gums.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_gums.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_gun.png",
                     "size": 1521,
-                    "hash": "338e93dad105d254f1896ab0642fd7939d94a32584c0838c8f6de5e9a87202c6",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_gun.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_gun.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_money.png",
                     "size": 2252,
-                    "hash": "9aa7d0f4e103ce1ebf7b44e323932ac5a5b49c84e5e8719fab923984c5c20d9d",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_money.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_money.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_oldschool.png",
                     "size": 3247,
-                    "hash": "8079f799318423bde0cc207b115e10cf6f2f70d2bb33be570545272668df04e4",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_oldschool.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_oldschool.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_op.png",
                     "size": 2342,
-                    "hash": "424488f7a5621cf80b4fca95500e0158b39e143ff036f9c1d394128782526960",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_op.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_op.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_perks.png",
                     "size": 1635,
-                    "hash": "70eabffdb59a2ea2eced09c96fcf3f6f602fcecbb671a3fef226ea5a98941b64",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_perks.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_perks.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_player.png",
                     "size": 2506,
-                    "hash": "acb44d35e89264415e7a9a6597e648b38c9b5c329f874c7f0b7e0596db7e9127",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_player.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_player.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_powerups.png",
                     "size": 1860,
-                    "hash": "2ee26f385da12391d838275c823255cd0913174f216b49c6e7cdaca79d2a20e1",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_powerups.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_powerups.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_rounds.png",
                     "size": 1496,
-                    "hash": "52268cb32829e175dfc55ab7e336852fe58d3ae9c4eb6ae394217e8b9e37e9a2",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_rounds.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_rounds.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_settings.png",
                     "size": 3472,
-                    "hash": "d681956e158eb8ccc5ab71b681dfb71dc3c469884a988984d6974d5846e2dcbb",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_settings.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_settings.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_teleport.png",
                     "size": 3071,
-                    "hash": "ee52d774feb80f524d6b160f78ef038abf1a9ced3e17cc68fd01fd201f023af6",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_teleport.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_teleport.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_upgrade.png",
                     "size": 1146,
-                    "hash": "64d8bd1fe2e97e0783fcb74975aa22f1ab7158c61d38c498f3f84eca5f3a11d8",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_upgrade.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_upgrade.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_wonder.png",
                     "size": 2281,
-                    "hash": "9214ff9e307da2091018e984ce5bca25000de645db6fdfa95ac4e4b295541fa9",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_wonder.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_wonder.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_world.png",
                     "size": 3840,
-                    "hash": "bfee6eb047a056973ea4bc3e3024451a1715b45f2450ad44eb499f26ecf3c571",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_world.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_world.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_i_zombies.png",
                     "size": 2961,
-                    "hash": "c74b6ecce03e302be9becbabf91095a4ec16d24a8431f83477629f7d08653f7a",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_i_zombies.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_i_zombies.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_knob.png",
                     "size": 1147,
-                    "hash": "df07eea77c62ff0782d9d2709d8cdcbc32332739e6898a5691ec70dcebbb4a9d",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_knob.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_knob.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_logo.png",
                     "size": 25495,
-                    "hash": "07919aff7cec3dfd2a5c5be0d8fb84ed01deaed74f30ba790b82b747055bedc2",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_logo.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_logo.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_pill.png",
                     "size": 1219,
-                    "hash": "49bee39fab1eb9b662cf50f0c77a6f1b8f4736ee8217c0822ca30e82eefd1973",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_pill.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_pill.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_switch.png",
                     "size": 1301,
-                    "hash": "06c79fb52ef2e76f943942277770acb00088aab705cf2e7648ae004cf7e31d8c",
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_switch.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_switch.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_ar_able18.png",
+                    "size": 14329,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_able18.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_ar_aking74.png",
+                    "size": 15022,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_aking74.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ar_albatross.png",
-                    "size": 84269,
-                    "hash": "e866220335b4feddedfc7a3bcb11b86e76e55cc96979e2b6fa3424ea7e339e67",
+                    "size": 27478,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ar_albatross.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_albatross.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_ar_aspen.png",
+                    "size": 17196,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_aspen.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_ar_asvalor.png",
+                    "size": 13146,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_asvalor.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_ar_clove.png",
+                    "size": 14976,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_clove.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ar_condor.png",
-                    "size": 102334,
-                    "hash": "17b86ac39f7e1c4e84cc336ecdcb5bfcc13a0f16dfad29f9e9814a11398b0cd1",
+                    "size": 32421,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ar_condor.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_condor.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_ar_coslo723.png",
+                    "size": 16626,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_coslo723.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ar_eagle.png",
-                    "size": 109021,
-                    "hash": "45ae5aa0bc9232ac40c8d1213eb7dd569eaaaf88e54647c6767d4b5810c8629a",
+                    "size": 34256,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ar_eagle.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_eagle.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ar_egret.png",
-                    "size": 97214,
-                    "hash": "ecbbaed8659b15ed79db883eb9befce92676a18e2dbdb31d713b2245b98ee261",
+                    "size": 31168,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ar_egret.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_egret.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ar_emu.png",
-                    "size": 80312,
-                    "hash": "422f45c4e55cacacccfbd79a15a737f5002e01d1b0cbe334f24b03c3740a00d9",
+                    "size": 26408,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ar_emu.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_emu.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_ar_fable.png",
+                    "size": 14957,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_fable.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ar_falcon.png",
-                    "size": 118770,
-                    "hash": "86b3c7e24651d7d0833b1584961e771ba62f09281ce8720bc0782452f6872986",
+                    "size": 37359,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ar_falcon.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_falcon.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ar_finch.png",
-                    "size": 70208,
-                    "hash": "35ccae6a97f625b38abd577ee6515d78ef08c1a1ba610866997f5b1a3a862f87",
+                    "size": 23517,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ar_finch.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_finch.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_ar_fresno.png",
+                    "size": 16105,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_fresno.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_ar_gilroy.png",
+                    "size": 17566,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_gilroy.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ar_hawk.png",
-                    "size": 105111,
-                    "hash": "d393c1ba8de1e15b18188b4a5212564f8a83c12e063f0b285ba029cf84b262df",
+                    "size": 33981,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ar_hawk.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_hawk.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ar_heron.png",
-                    "size": 107927,
-                    "hash": "ca877044efafe9409bc87353fadd015cc4506ac26f4aaaab821af28cadfb4ac3",
+                    "size": 34042,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ar_heron.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_heron.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_ar_kent.png",
+                    "size": 15937,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_kent.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ar_kite.png",
-                    "size": 97485,
-                    "hash": "c0f9aca9b329677e800c3e02f919bf707c0ab87c3ce4dd6d191b2239559df82f",
+                    "size": 31696,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ar_kite.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_kite.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ar_kiwi.png",
-                    "size": 106805,
-                    "hash": "dc1859b12a5b91ad18d78f83dc6f7e00e6c8f974db1e031b468f61d5dfff838e",
+                    "size": 33845,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ar_kiwi.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_kiwi.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_ar_love85.png",
+                    "size": 16412,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_love85.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ar_macaw.png",
-                    "size": 125369,
-                    "hash": "a5c37d463323c2d997170668f11e1e1b6b34feec1674c9259e9b27925ff6a386",
+                    "size": 40323,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ar_macaw.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_macaw.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_ar_milan.png",
+                    "size": 12324,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_milan.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_ar_rmary2.png",
+                    "size": 13299,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_rmary2.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_ar_tbaker.png",
+                    "size": 19864,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_tbaker.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ar_vulture.png",
-                    "size": 119538,
-                    "hash": "6e16e09f23c6e9bc76ff0603f611d7484da04cad38636f013c45daa4a263ea90",
+                    "size": 37504,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ar_vulture.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_vulture.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ar_wren.png",
-                    "size": 79165,
-                    "hash": "c21b74dc0f7d183f021e6853c8729395a9c1c0b201954316266c31412fac0e0e",
+                    "size": 26158,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ar_wren.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ar_wren.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_dm_aeasy.png",
+                    "size": 15167,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_dm_aeasy.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_dm_erie.png",
+                    "size": 7814,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_dm_erie.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_dm_falove.png",
+                    "size": 10262,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_dm_falove.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_dm_kara.png",
-                    "size": 76051,
-                    "hash": "5d79b30cd55c2eab11e95675117b138cfd753761bad13a34f681f0d1efae687f",
+                    "size": 24363,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_dm_kara.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_dm_kara.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_dm_oman.png",
-                    "size": 71005,
-                    "hash": "5baffd47257d3ae4db52887c71f06c23109d423eeff4edaf35542d7bea4e1fec",
+                    "size": 23827,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_dm_oman.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_dm_oman.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_dm_samar.png",
-                    "size": 76434,
-                    "hash": "26471e13cb89e5209bbb0979627386ae5f9db5f0ecdf2d8b08db9b990cf99248",
+                    "size": 24895,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_dm_samar.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_dm_samar.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_dm_scotia.png",
-                    "size": 108714,
-                    "hash": "296c74e2144c85e98abf9a3acddac90cc11ade3bb5a6b2f7d6a65f8017f6e75f",
+                    "size": 34849,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_dm_scotia.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_dm_scotia.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_dm_sgeorge550.png",
+                    "size": 12819,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_dm_sgeorge550.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_dm_solomon.png",
-                    "size": 121362,
-                    "hash": "cd5227214d8137107c0577e31871432f0e38d5a4b6a537c8feb66a87ad471159",
+                    "size": 38335,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_dm_solomon.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_dm_solomon.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_dm_sroger25.png",
+                    "size": 11082,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_dm_sroger25.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_dm_svalor.png",
+                    "size": 14821,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_dm_svalor.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_dm_tasman.png",
-                    "size": 49317,
-                    "hash": "e9c366569294837844fd6efd5f3a98f046107db2055df9256470c8199ee74221",
+                    "size": 16401,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_dm_tasman.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_dm_tasman.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_la_fang.png",
-                    "size": 143361,
-                    "hash": "81a10214e3b1c12116a4f9cbb1dc0f8ed352edc9d126d10e309c509b4c687830",
+                    "size": 45431,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_la_fang.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_la_fang.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_la_pable3.png",
+                    "size": 12431,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_la_pable3.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_la_polis.png",
-                    "size": 124484,
-                    "hash": "329ebc8f5e6d9bc556c03422628ed2eb28252ac4f854f01907dcdbc1443ab646",
+                    "size": 39581,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_la_polis.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_la_polis.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_la_stisaac.png",
+                    "size": 15652,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_la_stisaac.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_lm_aroger10.png",
+                    "size": 14509,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_lm_aroger10.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_lm_hades.png",
-                    "size": 86723,
-                    "hash": "56471553a6af885a7cf35ea71587c6d1b043ecbb0c5363543e9212730e3399e8",
+                    "size": 28264,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_lm_hades.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_lm_hades.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_lm_hildr.png",
-                    "size": 101776,
-                    "hash": "54396307f66733f2a3da04813064bfec20857954acc752cdae84590a424b6eef",
+                    "size": 32781,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_lm_hildr.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_lm_hildr.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_lm_ksugar58.png",
+                    "size": 16014,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_lm_ksugar58.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_lm_mesa.png",
+                    "size": 15284,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_lm_mesa.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_lm_puncle21.png",
+                    "size": 13704,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_lm_puncle21.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_lm_typhon.png",
-                    "size": 98200,
-                    "hash": "32fa6d444cfdc72a2ebf4414649192762d596e957ab2abc84144fb3375bc9192",
+                    "size": 31718,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_lm_typhon.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_lm_typhon.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_lm_uxray.png",
+                    "size": 14594,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_lm_uxray.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_lm_zeus.png",
-                    "size": 120081,
-                    "hash": "918c77696a98d6329e7fba79d757b5cccc88bc933fbcba2a4bf4d2677818c6c1",
+                    "size": 38529,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_lm_zeus.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_lm_zeus.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_me_ballisticknife.png",
-                    "size": 65574,
-                    "hash": "2077be794ad0e14324ac74de432f887275dee6ed96744e55140fa062ab893051",
+                    "size": 21235,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_me_ballisticknife.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_ballisticknife.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_me_bat.png",
+                    "size": 5168,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_bat.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_me_bgloves.png",
+                    "size": 12789,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_bgloves.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_me_bostaff.png",
+                    "size": 2459,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_bostaff.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_me_castor.png",
-                    "size": 62362,
-                    "hash": "3b9b05ee004f995d0f5e3a9ae498659ffba3d89b15f09784fd8461c5fd75cda5",
+                    "size": 20438,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_me_castor.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_castor.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_me_cleaver.png",
+                    "size": 12413,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_cleaver.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_me_csaw.png",
+                    "size": 17695,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_csaw.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_me_drill.png",
+                    "size": 14383,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_drill.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_me_katanas.png",
+                    "size": 7102,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_katanas.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_me_keene.png",
+                    "size": 2990,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_keene.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_me_knife.png",
-                    "size": 37022,
-                    "hash": "956321c4829bcd03383ba50cafdf624d6aaf8df690b5691d09c6c0a61b08cb67",
+                    "size": 12466,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_me_knife.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_knife.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_me_maru.png",
-                    "size": 18904,
-                    "hash": "8e899a03f62b803c2b09e67b4fbe3fc57c7b05fc442048cf99dcafbb22dc2b1b",
+                    "size": 6539,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_me_maru.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_maru.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_me_nashira.png",
-                    "size": 43086,
-                    "hash": "08137c5c590306a7d0c6af2f66047c4a4557f079afb60ad84e2dd7af7f6b90ae",
+                    "size": 15218,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_me_nashira.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_nashira.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_me_nunchaku.png",
+                    "size": 10460,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_nunchaku.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_me_pickaxe.png",
+                    "size": 6383,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_pickaxe.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_me_saiph.png",
-                    "size": 142059,
-                    "hash": "9b0b5e40100990bfec1ad9f14ab63402f1495e1e3d0efc3701cc744a80376749",
+                    "size": 43160,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_me_saiph.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_saiph.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_me_sais.png",
+                    "size": 9872,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_sais.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_me_shockbaton.png",
-                    "size": 90921,
-                    "hash": "996762785d5ce879bfeba33c3c8b998f6feba8f8e06b96bc5108e2b62d4b7900",
+                    "size": 28310,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_me_shockbaton.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_shockbaton.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_me_skateboard.png",
+                    "size": 6032,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_skateboard.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_me_wasat.png",
-                    "size": 118513,
-                    "hash": "1335fa8c989238a8e1ce28931a04963ac4162b554389c8bfbe33feaed3b58295",
+                    "size": 35843,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_me_wasat.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_me_wasat.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_pi_alcor.png",
-                    "size": 66871,
-                    "hash": "4c045941a4d0598b7c3f011c10ca7c9e17b2a4cb89f9ea027f13732494d14940",
+                    "size": 20527,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_pi_alcor.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_pi_alcor.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_pi_atlas.png",
-                    "size": 79049,
-                    "hash": "883675dc68318f93698828ded369e93252c51d82d32b8a283d4fe8659d1b28fa",
+                    "size": 24384,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_pi_atlas.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_pi_atlas.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_pi_mable.png",
+                    "size": 11663,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_pi_mable.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_pi_orion.png",
-                    "size": 83096,
-                    "hash": "2ee08cced1bf52defa6becfe29fcea33bcabfe94c39c075a2004e3b84afb3d5a",
+                    "size": 24897,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_pi_orion.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_pi_orion.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_pi_paris30.png",
+                    "size": 12203,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_pi_paris30.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_pi_pyork.png",
+                    "size": 13169,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_pi_pyork.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_pi_stiger.png",
+                    "size": 12372,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_pi_stiger.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_pi_timir.png",
-                    "size": 60313,
-                    "hash": "67e0533a67db336af09cc02c48768afffdf38e7f649fb174cfd8ae341835a1e4",
+                    "size": 18686,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_pi_timir.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_pi_timir.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_pi_usugar9.png",
+                    "size": 12827,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_pi_usugar9.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sh_akita.png",
-                    "size": 84609,
-                    "hash": "f02820626cc5fa569c01a2f1b429ec54424740b06886ac8e0d2df0557b50bea3",
+                    "size": 26779,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sh_akita.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sh_akita.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sh_corso.png",
-                    "size": 75034,
-                    "hash": "7793499a1ada25e495b60955fce44aee3b870b91bb5552806696a3b35e873517",
+                    "size": 25319,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sh_corso.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sh_corso.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sh_husky.png",
-                    "size": 109608,
-                    "hash": "5894636d6ba05a3506cc41f8c1eb72c834f7034328a3bfbccea68f55f60af58c",
+                    "size": 35120,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sh_husky.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sh_husky.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sh_jhavana.png",
+                    "size": 15494,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sh_jhavana.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sh_moslo500.png",
+                    "size": 9727,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sh_moslo500.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sh_olove.png",
+                    "size": 7387,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sh_olove.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sh_shepherd.png",
-                    "size": 98998,
-                    "hash": "dc0790c24bea7a7ac6857bc60d27cad3a69a49ab7c9c5c5e16f2cdfa44a6b61d",
+                    "size": 31515,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sh_shepherd.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sh_shepherd.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sh_terrier.png",
-                    "size": 39183,
-                    "hash": "514e9d95ac1656f6b2ae2a792b9329eb30ef785f7dc0ff69847508d053aa7f59",
+                    "size": 13365,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sh_terrier.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sh_terrier.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sh_uncle12.png",
+                    "size": 13758,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sh_uncle12.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sl_blauncher.png",
+                    "size": 18368,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sl_blauncher.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sl_napa.png",
+                    "size": 11165,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sl_napa.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sl_wand.png",
+                    "size": 19549,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sl_wand.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_bear.png",
-                    "size": 60563,
-                    "hash": "9af777be9fe4bf926707bb1c418af6bb6c4b4cdb1d25377ca78e85409a5eb252",
+                    "size": 19786,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_bear.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_bear.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_bengal.png",
-                    "size": 82651,
-                    "hash": "3ea42235f4d8ffc90aed9c26d7c41360aa8325295ed9908b47bdbde1ab59f863",
+                    "size": 27300,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_bengal.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_bengal.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sm_chuck9.png",
+                    "size": 16545,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_chuck9.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_civet.png",
-                    "size": 87849,
-                    "hash": "096d020edac5a295a888e1bcd8f0d4d0926b7828a74efafb6d580172d624b15e",
+                    "size": 28332,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_civet.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_civet.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_cobra.png",
-                    "size": 93882,
-                    "hash": "93d47dedb81eb7087f099a7148d5711a6aee288bc70f4a9bbfefd0168eab5cae",
+                    "size": 30746,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_cobra.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_cobra.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sm_geasy9.png",
+                    "size": 16761,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_geasy9.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_gecko.png",
-                    "size": 79059,
-                    "hash": "ef294724734da4334908cba7d5fd94ef12f6e89799b920c75bd9e8a8f4c6824f",
+                    "size": 25980,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_gecko.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_gecko.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_hyena.png",
-                    "size": 85408,
-                    "hash": "bfd7e922141354ce052ba73d837989790f528bc9dcb488f1802675e1acc39e85",
+                    "size": 28016,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_hyena.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_hyena.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_komodo.png",
-                    "size": 97795,
-                    "hash": "521d24ded64616b02614d8c96303a9efd420193cd665494a2e0d873e99953ef6",
+                    "size": 30916,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_komodo.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_komodo.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sm_lisbon.png",
+                    "size": 17950,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_lisbon.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_mammoth.png",
-                    "size": 72811,
-                    "hash": "097cadb61fcdf5290b2fd193c0f82a43575580f90fbafb2a9dba99b827bee57c",
+                    "size": 23595,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_mammoth.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_mammoth.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_marmot.png",
-                    "size": 85906,
-                    "hash": "7ce91442175e96c149a021da011dfa4e6643f383d0826b171a4efb77c0274fbd",
+                    "size": 29004,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_marmot.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_marmot.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sm_mpug40.png",
+                    "size": 13972,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_mpug40.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_orca.png",
-                    "size": 74920,
-                    "hash": "f8dead2951b0f86a622547ffca52d5193317a7d236068ff794281f78b604d566",
+                    "size": 24315,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_orca.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_orca.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_otter.png",
-                    "size": 91280,
-                    "hash": "38a43b514529fe31d81c9a149b2d54cbb2a4a528f4852b29c254d22544d17b26",
+                    "size": 29748,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_otter.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_otter.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sm_perth.png",
+                    "size": 14874,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_perth.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sm_pparis90.png",
+                    "size": 13282,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_pparis90.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_puma.png",
-                    "size": 126087,
-                    "hash": "7c2d10f5c3c661aed443d1856ec65f152c4ca448533332d74e8b3ebd81f56672",
+                    "size": 39768,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_puma.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_puma.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sm_roger31.png",
+                    "size": 10722,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_roger31.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sm_safox.png",
+                    "size": 16086,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_safox.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sm_saug.png",
+                    "size": 16830,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_saug.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sm_schuck.png",
+                    "size": 14828,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_schuck.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_serval.png",
-                    "size": 66990,
-                    "hash": "b25726e7798fdb2d1df0bd23afe0ac6b30fcdb87f6419ad946183ff64f44e150",
+                    "size": 21274,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_serval.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_serval.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sm_sroger3.png",
+                    "size": 17104,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_sroger3.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_stoat.png",
-                    "size": 91312,
-                    "hash": "6f6ea36e9007963df5dfd0799fbdfed0cc7a9b39eea766f9628efb6e6e64625e",
+                    "size": 29680,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_stoat.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_stoat.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sm_zebra.png",
-                    "size": 123391,
-                    "hash": "15a9a0b4a75dd27f0f00519d83cc2325c4a145297599aa6462336b14d00fe3fe",
+                    "size": 39561,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sm_zebra.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sm_zebra.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sn_aden.png",
-                    "size": 82325,
-                    "hash": "c9b0d1ab17c68c2311c4da22bc9bf5b27195ff558bcd369e0ba59380ac0fb34b",
+                    "size": 27439,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sn_aden.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sn_aden.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sn_baltic.png",
-                    "size": 117552,
-                    "hash": "a593a925ac25f0f2d16251b394f0673f8cb94d6d472c3035b24bb7ae7e337509",
+                    "size": 36314,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sn_baltic.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sn_baltic.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sn_caspian.png",
-                    "size": 99569,
-                    "hash": "af08899deed8caa4ab195d27bf1684f819cc67f9802fb9c92034ba35a2768e79",
+                    "size": 31384,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sn_caspian.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sn_caspian.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sn_coral.png",
-                    "size": 78452,
-                    "hash": "ee0a8494d29ef15681a4cfa68c7e34743fc885158a3e1fd8c390603e65e7db46",
+                    "size": 25452,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sn_coral.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sn_coral.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_sn_drake.png",
-                    "size": 84026,
-                    "hash": "af38aadabe3e96cbb8b3c2077231938b93e1f01ac83b298dbb52c60dc3d01191",
+                    "size": 27593,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_sn_drake.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sn_drake.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sn_droger.png",
+                    "size": 12367,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sn_droger.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sn_hugo.png",
+                    "size": 13373,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sn_hugo.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sn_love96.png",
+                    "size": 12595,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sn_love96.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sn_mary82.png",
+                    "size": 12694,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sn_mary82.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_w_sn_ultiger.png",
+                    "size": 12167,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_sn_ultiger.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ww_firefly.png",
-                    "size": 136759,
-                    "hash": "00c3c2db3713a632030584fe505de6c7bce707bd91710923493f86447df3c589",
+                    "size": 40223,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ww_firefly.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ww_firefly.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ww_hornet.png",
-                    "size": 96720,
-                    "hash": "2052f4f734b713f96bc501aff56b09edcfb4ff1da80af0e90c121c0105c0573e",
+                    "size": 29832,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ww_hornet.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ww_hornet.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ww_locust.png",
-                    "size": 84385,
-                    "hash": "3896671b634341e5dc8710ad3e7a950c64f0d24e2fa07ec6b4d9be6938daee15",
+                    "size": 26779,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ww_locust.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ww_locust.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ww_mantis.png",
-                    "size": 72038,
-                    "hash": "baf11f4fd1befcd0bbac45094f845ae70afdf86f33fd322b915c087153cfe10f",
+                    "size": 22308,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ww_mantis.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ww_mantis.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ww_raygun.png",
-                    "size": 89006,
-                    "hash": "2d872f3998afeb14d9886d9abed472df68c6af10647a41efd6f0742008a9db2d",
+                    "size": 28495,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ww_raygun.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ww_raygun.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ww_raygunmark2.png",
-                    "size": 122087,
-                    "hash": "0eafc88aff3dfc5c1b3f0df7cf1bafb6d73af7f6e32ef43946726786ed56d0b7",
+                    "size": 37810,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ww_raygunmark2.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ww_raygunmark2.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ww_ruby.png",
-                    "size": 71576,
-                    "hash": "b4f4a00d4bcd02ec21ab43eef7aa0cd2b0530379a395378911426b90b9fafe82",
+                    "size": 23554,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ww_ruby.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ww_ruby.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ww_scarab.png",
-                    "size": 112233,
-                    "hash": "cc8d1a5a523802e2177fc5cbc92ae1822bfdcfa9b85360f7d20fedd4b0ffd25f",
+                    "size": 34759,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ww_scarab.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ww_scarab.png"
                     ]
                 },
                 {
                     "name": "images/fuzmenu_w_ww_sundergat.png",
-                    "size": 114046,
-                    "hash": "582242fe622c2b024f181247b791e0bb44471763839fa3bf2f0402f943276bb8",
+                    "size": 36393,
+                    "hash": "",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.6.0/fuzmenu_w_ww_sundergat.png"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/fuzmenu_w_ww_sundergat.png"
+                    ]
+                },
+                {
+                    "name": "lua/zm_mod_menu_post.lua",
+                    "size": 41425,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_mod_menu_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_firefly_post.lua",
+                    "size": 691,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_split_zm_sat_firefly_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_hornet_post.lua",
+                    "size": 537,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_split_zm_sat_hornet_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_locust_post.lua",
+                    "size": 821,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_split_zm_sat_locust_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_mantis_post.lua",
+                    "size": 553,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_split_zm_sat_mantis_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_ruby_post.lua",
+                    "size": 679,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_split_zm_sat_ruby_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_split_zm_sat_scarab_post.lua",
+                    "size": 758,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_split_zm_sat_scarab_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_splitter_post.lua",
+                    "size": 30443,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_splitter_post.lua"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_boss_astra.gsc",
+                    "size": 1475,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_boss_astra.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_helmets_locust.gsc",
+                    "size": 2435,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_helmets_locust.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_mod_menu.gsc",
+                    "size": 321288,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_mod_menu.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_mod_menu_arsenal.gsc",
+                    "size": 34353,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_mod_menu_arsenal.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_mod_menu_fr.gsc",
+                    "size": 24023,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_mod_menu_fr.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_mod_menu_fun.gsc",
+                    "size": 67194,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_mod_menu_fun.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_mod_menu_ui.gsc",
+                    "size": 8937,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.8.8/zm_mod_menu_ui.gsc"
                     ]
                 }
             ]
@@ -3976,6 +4632,527 @@
                     "hash": "d2bf57ea6998bd28ea8cf0835669976b33a5158102cf7b09b68ac079592ff1a6",
                     "urls": [
                         "https://github.com/DellxCell/Blackwater-Lake/releases/download/v1.0/zm_blackwater_lake_mayhem.gsc"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "zmbots",
+            "type": "script",
+            "name": "ZM Bots",
+            "author": "supergamer9787 / RlKk01 (BO2 original), BO7 port by Fuzion28",
+            "version": "0.4.0",
+            "description": "AI teammates for BO7 Zombies: up to 7 bots join your squad, fight, revive you, buy perks and guns, open doors and follow your orders. BO7 port of BO2 Zombies Plutonium Bots V4.0. Test version.",
+            "image": "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 128,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/mod.json"
+                    ]
+                },
+                {
+                    "name": "lua/zm_bots_hud_post.lua",
+                    "size": 6032,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_hud_post.lua"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots.gsc",
+                    "size": 14518,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_armor.gsc",
+                    "size": 1829,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_armor.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_buy.gsc",
+                    "size": 21482,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_buy.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_chat.gsc",
+                    "size": 9272,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_chat.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_client.gsc",
+                    "size": 1139,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_client.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_cmd.gsc",
+                    "size": 19792,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_cmd.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_config.gsc",
+                    "size": 5839,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_config.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_crew.gsc",
+                    "size": 4581,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_crew.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_find.gsc",
+                    "size": 758,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_find.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_hud.gsc",
+                    "size": 5612,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_hud.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_keep.gsc",
+                    "size": 2559,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_keep.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_move.gsc",
+                    "size": 17221,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_move.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_move_api.gsc",
+                    "size": 1268,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_move_api.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_pers.gsc",
+                    "size": 1716,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_pers.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_powerup.gsc",
+                    "size": 5165,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_powerup.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_bots_survive.gsc",
+                    "size": 1711,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/zmbots/releases/download/v0.4.0/zm_bots_survive.gsc"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "livesplit_bo7",
+            "type": "script",
+            "name": "Livesplit BO7",
+            "author": "Redouan B & Fuzion28",
+            "version": "1.0.5-alpha",
+            "description": "In-game speedrun splitter and practice tool for BO7 Zombies: splits per map, personal bests, PB ghost, a practice menu and an optional link with the LiveSplit desktop program. Alpha.",
+            "image": "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 127,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/mod.json"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_bg.png",
+                    "size": 226490,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_bg.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_cap_b.png",
+                    "size": 824,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_cap_b.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_cap_t.png",
+                    "size": 804,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_cap_t.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_header.png",
+                    "size": 32689,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_header.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_chevron.png",
+                    "size": 941,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_chevron.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_close.png",
+                    "size": 1280,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_close.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_damage.png",
+                    "size": 3461,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_damage.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_fire.png",
+                    "size": 3025,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_fire.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_forge.png",
+                    "size": 2296,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_forge.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_gums.png",
+                    "size": 2963,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_gums.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_gun.png",
+                    "size": 1521,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_gun.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_money.png",
+                    "size": 2252,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_money.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_oldschool.png",
+                    "size": 3247,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_oldschool.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_op.png",
+                    "size": 2342,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_op.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_perks.png",
+                    "size": 1635,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_perks.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_player.png",
+                    "size": 2506,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_player.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_powerups.png",
+                    "size": 1860,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_powerups.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_rounds.png",
+                    "size": 1496,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_rounds.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_settings.png",
+                    "size": 3472,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_settings.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_teleport.png",
+                    "size": 3071,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_teleport.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_upgrade.png",
+                    "size": 1146,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_upgrade.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_wonder.png",
+                    "size": 2281,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_wonder.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_world.png",
+                    "size": 3840,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_world.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_i_zombies.png",
+                    "size": 2961,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_i_zombies.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_knob.png",
+                    "size": 1147,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_knob.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_pill.png",
+                    "size": 1219,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_pill.png"
+                    ]
+                },
+                {
+                    "name": "images/lsmenu_switch.png",
+                    "size": 1301,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/lsmenu_switch.png"
+                    ]
+                },
+                {
+                    "name": "lua/livesplit_menu_post.lua",
+                    "size": 36934,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/livesplit_menu_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/livesplit_split_zm_sat_firefly_post.lua",
+                    "size": 703,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/livesplit_split_zm_sat_firefly_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/livesplit_split_zm_sat_hornet_post.lua",
+                    "size": 549,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/livesplit_split_zm_sat_hornet_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/livesplit_split_zm_sat_locust_post.lua",
+                    "size": 883,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/livesplit_split_zm_sat_locust_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/livesplit_split_zm_sat_mantis_post.lua",
+                    "size": 565,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/livesplit_split_zm_sat_mantis_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/livesplit_split_zm_sat_ruby_post.lua",
+                    "size": 691,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/livesplit_split_zm_sat_ruby_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/livesplit_split_zm_sat_scarab_post.lua",
+                    "size": 664,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/livesplit_split_zm_sat_scarab_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/livesplit_splitter_post.lua",
+                    "size": 39325,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/livesplit_splitter_post.lua"
+                    ]
+                },
+                {
+                    "name": "scripts/livesplit_astra.gsc",
+                    "size": 24195,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/livesplit_astra.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/livesplit_glocke.gsc",
+                    "size": 6124,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/livesplit_glocke.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/livesplit_speedrun.gsc",
+                    "size": 81365,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/livesplit_speedrun.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/livesplit_totenreich.gsc",
+                    "size": 17943,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/livesplit-bo7/releases/download/v1.0.5-alpha/livesplit_totenreich.gsc"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cne",
+            "type": "script",
+            "name": "Cause And Effect",
+            "author": "LogisticalReaper (BO7 port by Fuzion28)",
+            "version": "0.4.1",
+            "description": "BO7 port of the BO3 mod by LogisticalReaper, with permission: every round a random cause is paired with a random effect. Pick the rules on the options screen at the start of the match.",
+            "image": "https://github.com/Fuzion28/cause-and-effect/releases/download/v0.4.1/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 116,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/cause-and-effect/releases/download/v0.4.1/mod.json"
+                    ]
+                },
+                {
+                    "name": "lua/cne_post.lua",
+                    "size": 12169,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/cause-and-effect/releases/download/v0.4.1/cne_post.lua"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_cne.gsc",
+                    "size": 62781,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/cause-and-effect/releases/download/v0.4.1/zm_cne.gsc"
                     ]
                 }
             ]
