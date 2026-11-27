@@ -3717,16 +3717,16 @@
             "type": "ui",
             "name": "Extended FOV",
             "author": "Krimsinx",
-            "version": "1",
+            "version": "1.1",
             "description": "BO7 Zombies Extended FOV Mod for Kronos Launcher. Extended View Model FOV & FOV Scale like BO3 Zombies. Features an option in the pause menu to change the settings. Settings persist across restarts.",
             "image": "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/preview.png",
             "files": [
                 {
                     "name": "mod.json",
-                    "size": 82,
-                    "hash": "d3a67d4c1b53fbbeee45c89a15c9a2ca4e6abf7110290395b6f098f65a2e442b",
+                    "size": 84,
+                    "hash": "b3119f2c72475a1a410461489b2fd8acbc7fb9fa6a255e60528dc6fff2b480f2",
                     "urls": [
-                        "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/mod.json"
+                        "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1.1/mod.json"
                     ]
                 },
                 {
@@ -3734,15 +3734,15 @@
                     "size": 1104,
                     "hash": "c0ef3f7f579433d5905bc266725e7848bc3acb87f539fff4eb869edc69c8cb85",
                     "urls": [
-                        "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/extended_fov_store.gsc"
+                        "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1.1/extended_fov_store.gsc"
                     ]
                 },
                 {
                     "name": "lua/extended_fov_post.lua",
-                    "size": 24559,
-                    "hash": "401f8b8718b14b91aa38a85cbde0f7201c98f8f20a3c8d3c73f606adc973ba8a",
+                    "size": 24598,
+                    "hash": "c1fd0067f866d72a1ec0476d6343ac690934c7817b3f1e61e851495b704d3161",
                     "urls": [
-                        "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1/extended_fov_post.lua"
+                        "https://github.com/Krimsinxx/bo7-extended-fov/releases/download/v1.1/extended_fov_post.lua"
                     ]
                 }
             ]
